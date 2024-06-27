@@ -1,0 +1,59 @@
+[
+  {
+    "name": "demon-inc",
+    "background": "/images/slots/demon-inc/fire-bg.png",
+    "panel": "/images/slots/demon-inc/panel.png",
+    "elementPanel": "/images/slots/demon-inc/elements-panel.png",
+    "namePanel": "/images/slots/demon-inc/name-panel.png",
+    "elements": [
+      {
+        "image": "/images/slots/demon-inc/gifs/burning-heart.gif",
+        "name": "burning-heart"
+      },
+      {
+        "image": "/images/slots/demon-inc/gifs/cigar.gif",
+        "name": "cigar"
+      },
+      {
+        "image": "/images/slots/demon-inc/gifs/devil.gif",
+        "name": "devil"
+      },
+      {
+        "image": "/images/slots/demon-inc/gifs/fish-eye.gif",
+        "name": "fish-eye"
+      },
+      {
+        "image": "/images/slots/demon-inc/gifs/icecream.gif",
+        "name": "icecream"
+      },
+      {
+        "image": "/images/slots/demon-inc/gifs/magnet.gif",
+        "name": "magnet"
+      },
+      {
+        "image": "/images/slots/demon-inc/gifs/mushroom.gif",
+        "name": "mushroom"
+      },
+      {
+        "image": "/images/slots/demon-inc/gifs/rainbow.gif",
+        "name": "rainbow"
+      },
+      {
+        "image": "/images/slots/demon-inc/gifs/skull.gif",
+        "name": "skull"
+      },
+      {
+        "image": "/images/slots/demon-inc/gifs/snake.gif",
+        "name": "snake"
+      },
+      {
+        "image": "/images/slots/demon-inc/gifs/volcano.gif",
+        "name": "volcano"
+      },
+      {
+        "image": "/images/slots/demon-inc/gifs/burning-heart.gif",
+        "name": "burning-heart"
+      }
+    ]
+  }
+]

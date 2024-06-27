@@ -1,0 +1,72 @@
+[
+  {
+    "image": "/profile/carousel/03.webp",
+    "label": "AVAILABLE",
+    "title": "Basic bronze chest",
+    "requirePoints": 1000,
+    "prizes": "$50.000",
+    "prizesIcon": "/svgs/rdt.svg",
+    "chancesToWin": [
+      "/profile/carousel/luck-full.svg",
+      "/profile/carousel/luck-empty.svg",
+      "/profile/carousel/luck-empty.svg",
+      "/profile/carousel/luck-empty.svg"
+    ]
+  },
+  {
+    "image": "/profile/carousel/02.webp",
+    "label": "AVAILABLE",
+    "title": "Basic bronze chest",
+    "requirePoints": 1000,
+    "prizes": "$50.000",
+    "prizesIcon": "/svgs/rdt.svg",
+    "chancesToWin": [
+      "/profile/carousel/luck-full.svg",
+      "/profile/carousel/luck-empty.svg",
+      "/profile/carousel/luck-empty.svg",
+      "/profile/carousel/luck-empty.svg"
+    ]
+  },
+  {
+    "image": "/profile/carousel/01.webp",
+    "label": "AVAILABLE",
+    "title": "Basic bronze chest",
+    "requirePoints": 1000,
+    "prizes": "$50.000",
+    "prizesIcon": "/svgs/rdt.svg",
+    "chancesToWin": [
+      "/profile/carousel/luck-full.svg",
+      "/profile/carousel/luck-full.svg",
+      "/profile/carousel/luck-full.svg",
+      "/profile/carousel/luck-empty.svg"
+    ]
+  },
+  {
+    "image": "/profile/carousel/04.webp",
+    "label": "AVAILABLE",
+    "title": "Basic bronze chest",
+    "requirePoints": 1000,
+    "prizes": "$50.000",
+    "prizesIcon": "/svgs/rdt.svg",
+    "chancesToWin": [
+      "/profile/carousel/luck-full.svg",
+      "/profile/carousel/luck-empty.svg",
+      "/profile/carousel/luck-empty.svg",
+      "/profile/carousel/luck-empty.svg"
+    ]
+  },
+  {
+    "image": "/profile/carousel/05.webp",
+    "label": "AVAILABLE",
+    "title": "Basic bronze chest",
+    "requirePoints": 1500,
+    "prizes": "$50.000",
+    "prizesIcon": "/svgs/rdt.svg",
+    "chancesToWin": [
+      "/profile/carousel/luck-full.svg",
+      "/profile/carousel/luck-full.svg",
+      "/profile/carousel/luck-full.svg",
+      "/profile/carousel/luck-full.svg"
+    ]
+  }
+]

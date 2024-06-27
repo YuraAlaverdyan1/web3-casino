@@ -1,0 +1,14 @@
+query LastUserClaimedRounds($id: String!) {
+  rounds(
+    where: { user_: { id: $id }, claimed_not: null }
+    orderBy: timestamp
+    orderDirection: desc
+    first: 1
+  ) {
+    id
+    lottery {
+      id
+      endTime
+    }
+  }
+}

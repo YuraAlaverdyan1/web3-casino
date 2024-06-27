@@ -1,0 +1,14 @@
+query CoinFlips {
+  pulls(first: 1000, orderBy: timestamp, orderDirection: desc) {
+    id
+    player
+    wager
+    token
+    numOfBets
+    payOut
+    reqId
+    timestamp
+    trxHash
+    claimed
+  }
+}

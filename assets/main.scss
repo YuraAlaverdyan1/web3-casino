@@ -1,0 +1,17 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+@import './style.scss';
+
+html {
+  scroll-behavior: smooth;
+  background-color: #171120;
+}
+
+:root {
+  --oruga-switch-active-background-color: #f60;
+  --oruga-switch-background: #3b3c4e;
+}

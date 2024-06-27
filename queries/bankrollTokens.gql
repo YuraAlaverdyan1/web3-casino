@@ -1,0 +1,14 @@
+query BanrollTokens {
+  tokens(first: 10, where: { isValid: true }) {
+    id
+    address
+    trxHash
+    isValid
+  }
+  rewards(first: 20) {
+    id
+    token
+    amount
+    user
+  }
+}

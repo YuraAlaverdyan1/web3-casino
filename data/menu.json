@@ -1,0 +1,151 @@
+[
+  {
+    "name": "Casino",
+    "path": "/"
+  },
+  {
+    "name": "Lottery",
+    "path": "/lottery"
+  },
+  {
+    "name": "Sports",
+    "path": "/sports/",
+    "categories": [
+      {
+        "name": "Top Events",
+        "link": "/sports/",
+        "slug": "top-events",
+        "isHeadPage": true
+      },
+      {
+        "name": "Football",
+        "link": "/sports/football",
+        "slug": "football",
+        "isHeadPage": false
+      },
+      {
+        "name": "Basketball",
+        "link": "/sports/basketball",
+        "slug": "basketball",
+        "isHeadPage": false
+      },
+      {
+        "name": "Tennis",
+        "link": "/sports/tennis",
+        "slug": "tennis",
+        "isHeadPage": false
+      },
+      {
+        "name": "Cricket",
+        "link": "/sports/cricket",
+        "slug": "cricket",
+        "isHeadPage": false
+      },
+      {
+        "name": "MMA",
+        "link": "/sports/mma",
+        "slug": "mma",
+        "isHeadPage": false
+      },
+      {
+        "name": "Boxing",
+        "link": "/sports/boxing",
+        "slug": "boxing",
+        "isHeadPage": false
+      },
+      {
+        "name": "Ice Hockey",
+        "link": "/sports/ice-hockey",
+        "slug": "ice-hockey",
+        "isHeadPage": false
+      },
+      {
+        "name": "American Football",
+        "link": "/sports/american-football",
+        "slug": "american-football",
+        "isHeadPage": false
+      },
+      {
+        "name": "Baseball",
+        "link": "/sports/baseball",
+        "slug": "baseball",
+        "isHeadPage": false
+      },
+      {
+        "name": "Rugby Union",
+        "link": "/sports/rugby-union",
+        "slug": "rugby-union",
+        "isHeadPage": false
+      },
+      {
+        "name": "Rugby League",
+        "link": "/sports/rugby-league",
+        "slug": "rugby-league",
+        "isHeadPage": false
+      }
+    ]
+  },
+
+  {
+    "name": "E-Sports",
+    "path": "/e-sports/",
+    "categories": [
+      {
+        "name": "Top E-Sports",
+        "link": "/e-sports/",
+        "slug": "top-e-sports",
+        "isHeadPage": true
+      },
+      {
+        "name": "Tournaments",
+        "link": "/e-sports/tournaments",
+        "slug": "tournaments",
+        "isHeadPage": false
+      },
+      {
+        "name": "Dota 2",
+        "link": "/e-sports/dota-2",
+        "slug": "dota-2",
+        "isHeadPage": false
+      },
+      {
+        "name": "Counter-Strike 2",
+        "link": "/e-sports/cs2",
+        "slug": "cs2",
+        "isHeadPage": false
+      },
+      {
+        "name": "League of Legends",
+        "link": "/e-sports/lol",
+        "slug": "lol",
+        "isHeadPage": false
+      }
+    ]
+  },
+  {
+    "name": "Staking",
+    "path": "/profile",
+    "active": 2
+  },
+  {
+    "name": "Farming",
+    "path": "/profile",
+    "active": 1
+  },
+  {
+    "name": "Leaderboard",
+    "path": "/leaderboard"
+  },
+  {
+    "name": "Blog",
+    "path": "https://ridotto-io.medium.com"
+  },
+  {
+    "name": "Whitepaper",
+    "path": "/pdf/whitepaper_ridotto.pdf"
+  },
+  {
+    "name": "Ridotto V1",
+    "path": "https://legacy.ridotto.io"
+  }
+]

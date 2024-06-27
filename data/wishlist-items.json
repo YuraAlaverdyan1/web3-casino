@@ -1,0 +1,32 @@
+[
+  {
+    "image": "/images/lottery/wishlist/tesla.png",
+    "limit": "500.000",
+    "completed": "100.000",
+    "token": "btc"
+  },
+  {
+    "image": "/images/lottery/wishlist/rolex.png",
+    "limit": "300.000",
+    "completed": "123.000",
+    "token": "eth"
+  },
+  {
+    "image": "/images/lottery/wishlist/yacht.png",
+    "limit": "20.000",
+    "completed": "10.000",
+    "token": "usdt"
+  },
+  {
+    "image": "/images/lottery/wishlist/vr_set.png",
+    "limit": "10.000",
+    "completed": "5.000",
+    "token": "usdc"
+  },
+  {
+    "image": "/images/lottery/wishlist/vr_set.png",
+    "limit": "10.000",
+    "completed": "5.000",
+    "token": "usdc"
+  }
+]

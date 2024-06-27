@@ -1,0 +1,98 @@
+[
+  {
+    "image": "/images/lottery/jackpot-lotteries/img1.svg",
+    "title": "10K",
+    "jackpot": "10.000",
+    "token": "busd",
+    "endIn": "12h : 23m",
+    "tickets": 1243
+  },
+  {
+    "image": "/images/lottery/jackpot-lotteries/img2.svg",
+    "title": "20K",
+    "jackpot": "20.000",
+    "token": "busd",
+    "endIn": "12h : 23m",
+    "tickets": 1243
+  },
+  {
+    "image": "/images/lottery/jackpot-lotteries/img3.svg",
+    "title": "30K",
+    "jackpot": "30.000",
+    "token": "busd",
+    "endIn": "12h : 23m",
+    "tickets": 1243
+  },
+  {
+    "image": "/images/lottery/jackpot-lotteries/img4.svg",
+    "title": "40K",
+    "jackpot": "40.000",
+    "token": "busd",
+    "endIn": "12h : 23m",
+    "tickets": 1243
+  },
+  {
+    "image": "/images/lottery/jackpot-lotteries/img5.svg",
+    "title": "50K",
+    "jackpot": "50.000",
+    "token": "busd",
+    "endIn": "12h : 23m",
+    "tickets": 1243
+  },
+  {
+    "image": "/images/lottery/jackpot-lotteries/img2.svg",
+    "title": "100K",
+    "jackpot": "100.000",
+    "token": "busd",
+    "endIn": "12h : 23m",
+    "tickets": 1243
+  },
+  {
+    "image": "/images/lottery/jackpot-lotteries/img5.svg",
+    "title": "200K",
+    "jackpot": "200.000",
+    "token": "busd",
+    "endIn": "12h : 23m",
+    "tickets": 1243
+  },
+  {
+    "image": "/images/lottery/jackpot-lotteries/img4.svg",
+    "title": "300K",
+    "jackpot": "300.000",
+    "token": "busd",
+    "endIn": "12h : 23m",
+    "tickets": 1243
+  },
+  {
+    "image": "/images/lottery/jackpot-lotteries/img2.svg",
+    "title": "400K",
+    "jackpot": "400.000",
+    "token": "busd",
+    "endIn": "12h : 23m",
+    "tickets": 1243
+  },
+  {
+    "image": "/images/lottery/jackpot-lotteries/img3.svg",
+    "title": "500K",
+    "jackpot": "500.000",
+    "token": "busd",
+    "endIn": "12h : 23m",
+    "tickets": 1243
+  },
+  {
+    "image": "/images/lottery/jackpot-lotteries/img2.svg",
+    "title": "1M",
+    "jackpot": "1.000.000",
+    "token": "busd",
+    "endIn": "12h : 23m",
+    "tickets": 1243
+  },
+  {
+    "image": "/images/lottery/jackpot-lotteries/img1.svg",
+    "title": "5M",
+    "jackpot": "5.000.000",
+    "token": "busd",
+    "endIn": "12h : 23m",
+    "tickets": 1243
+  }
+]

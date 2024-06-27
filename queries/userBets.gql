@@ -1,0 +1,66 @@
+query BetsHistory($first: Int, $where: Bet_filter!) {
+  bets(
+    first: $first
+    orderBy: createdBlockTimestamp
+    orderDirection: desc
+    where: $where
+    subgraphError: allow
+  ) {
+    id
+    core {
+      id
+    }
+    betId
+    amount
+    potentialPayout
+    status
+    result
+    isRedeemed
+    odds
+    conditionIds: _conditionIds
+    createdAt: createdBlockTimestamp
+    txHash: createdTxHash
+    selections {
+      id
+      rawOdds
+      outcome {
+        id
+      }
+    }
+    conditions: _conditions {
+      wonOutcomes {
+        id
+      }
+      conditionId
+      status
+      id
+      isExpressForbidden
+      outcomes {
+        id
+        outcomeId
+        currentOdds
+      }
+      core {
+        address
+        type
+      }
+    }
+    game: _games {
+      startsAt
+      league {
+        id
+        name
+        slug
+      }
+      participants {
+        image
+        name
+      }
+      id
+      sport {
+        name
+        slug
+      }
+    }
+  }
+}

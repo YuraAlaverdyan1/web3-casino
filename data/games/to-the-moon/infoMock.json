@@ -1,0 +1,34 @@
+[
+  {
+    "icon": "/games/to-the-moon/jackpot.svg",
+    "title": "Jackpot",
+    "value": {
+      "text": "50.000.00",
+      "icon": "/games/to-the-moon/usdt.svg"
+    }
+  },
+  {
+    "icon": "/games/to-the-moon/time.svg",
+    "title": "Time Left",
+    "value": {
+      "text": "02:57:09",
+      "icon": ""
+    }
+  },
+  {
+    "icon": "/games/to-the-moon/distance.svg",
+    "title": "Distance to Moon",
+    "value": {
+      "text": "162.121 KM",
+      "icon": ""
+    }
+  },
+  {
+    "icon": "/games/to-the-moon/fuel.svg",
+    "title": "Fuel Prize",
+    "value": {
+      "text": "50.00",
+      "icon": "/games/to-the-moon/usdt.svg"
+    }
+  }
+]

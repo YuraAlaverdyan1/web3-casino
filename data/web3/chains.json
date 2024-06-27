@@ -1,0 +1,339 @@
+[
+  {
+    "code": "BSC",
+    "symbol": "BNB",
+    "publicRPC": "https://bsc-dataseed.binance.org/",
+    "verifyOnBlockchain": "https://bscscan.com",
+    "networkIcon": "/svgs/bsc-logo.svg",
+    "name": "BNB chain",
+    "chainId": "0x38",
+    "azuroLink": "https://thegraph.azuro.org/subgraphs/name/azuro-protocol/azuro-api-polygon-v3",
+    "node": "https://ultra-little-spree.bsc.quiknode.pro/5b95f3bfa3f66981257f7d40f855f5a5f70b553b/",
+    "multicall": "0xC50F4c1E81c873B2204D7eFf7069Ffec6Fbe136D",
+    "priceCalculation": {
+      "usdt": "0x55d398326f99059fF775485246999027B3197955",
+      "wbnb": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "pcsRouter": "0x10ED43C718714eb63d5aA57B78B54704E256024E"
+    },
+    "smartContracts": {
+      "RDTToken": "0xe9c64384dEb0C2bF06D991A8D708c77eb545E3d5",
+      "RDTTokenLP": "0x3B1Be589E16A1c1f09F554a2339d65cE30125210",
+      "contracts": {
+        "PoolDeployer": {
+          "address": "0x48581D8719D55A230f557104C337b87a6c3E38Cd"
+        },
+        "NftFactory": {
+          "address": "0x7eC1a983672D6bd56F177FF07dcff694ec4D47F2"
+        },
+        "MasterCroupier": {
+          "address": "0x2Ae4Ca022882491a7D1229dA25E9E7c6b89AA189"
+        },
+        "Lottery": {
+          "address": "0xF3196f915f9571dfA2b32eCa0fDB38bdbE4AFDB5"
+        },
+        "GlobalBankroll": {
+          "address": "0x2c5B04F5744724ccEaAdA451f81b6E6a98D53fde"
+        },
+        "LPAddress": {
+          "address": "0x7043E4e1c4045424858ECBCED80989FeAfC11B36"
+        }
+      }
+    }
+  },
+  {
+    "code": "BSC_TEST",
+    "mainnet": "BSC",
+    "symbol": "BNB",
+    "verifyOnBlockchain": "https://bscscan.com",
+    "networkIcon": "/svgs/bsc-logo.svg",
+    "publicRPC": "https://data-seed-prebsc-1-s1.binance.org:8545/",
+    "name": "BNB testnet",
+    "chainId": "0x61",
+    "test": true,
+    "node": "https://young-holy-wish.bsc-testnet.quiknode.pro/9139c5cdd8c393fdd216728918f9f7e02a592f50/",
+    "multicall": "0x6e5BB1a5Ad6F68A8D7D6A5e47750eC15773d6042",
+    "priceCalculation": {},
+    "smartContracts": {
+      "RDTToken": "0x6A493F700784240edd8A3FD09eCaB2A6D51b2C5E",
+      "RDTTokenLP": "0xA8E51039c1A2bcc6E387E4C2956CcCb7B1b6Da9d",
+      "contracts": {
+        "PoolDeployer": {
+          "address": "0x1252844475f7D9A30993F77249e55A7D68486eD7"
+        },
+        "NftFactory": {
+          "address": "0xdC8E9AfF67017f2C1ff1d7C5f6BA30F0058885Fc"
+        },
+        "MasterCroupier": {
+          "address": "0x4C260e61752CbFE37638AaD8dCB2D370a542Ed20"
+        },
+        "Lottery": {
+          "address": "0xb7164e9F86F6c5589bE261C7567961fc9C6E81Fa"
+        }
+      }
+    }
+  },
+  {
+    "code": "ETH",
+    "symbol": "ETH",
+    "verifyOnBlockchain": "https://bscscan.com",
+    "networkIcon": "/tokens/eth.png",
+    "publicRPC": "https://mainnet.infura.io/v3/",
+    "name": "Ethereum",
+    "chainId": "0x1",
+    "node": "https://silent-powerful-diagram.quiknode.pro/fb41c5919a63b2a164c3b9610513d5cdfb581b06/",
+    "multicall": "0x5BA1e12693Dc8F9c48aAD8770482f4739bEeD696",
+    "priceCalculation": {},
+    "smartContracts": {
+      "RDTToken": "0x4740735aa98dc8aa232bd049f8f0210458e7fca3",
+      "RDTTokenLP": "",
+      "contracts": {
+        "PoolDeployer": {
+          "address": ""
+        },
+        "NftFactory": {
+          "address": ""
+        },
+        "MasterCroupier": {
+          "address": ""
+        },
+        "Lottery": {
+          "address": ""
+        }
+      }
+    }
+  },
+  {
+    "code": "goerli",
+    "symbol": "ETH",
+    "publicRPC": "https://ww.ethercluster.com/goerli",
+    "verifyOnBlockchain": "https://goerli.etherscan.io",
+    "networkIcon": "/tokens/eth.png",
+    "name": "Goerli",
+    "chainId": "0x5",
+    "test": true,
+    "node": "https://evocative-boldest-needle.ethereum-goerli.quiknode.pro/a32ecfcb0c35e1ceadc0a09bf5d5aff3dca2e2a2/",
+    "multicall": "0x5BA1e12693Dc8F9c48aAD8770482f4739bEeD696",
+    "priceCalculation": {
+      "usdt": "0x3c81Ed9b4864be1B90452c55965c649E3f9B456b",
+      "wbnb": "0x85b8154Bd379b0dEf3586381B37D48aF1f5AC75a",
+      "pcsRouter": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D"
+    },
+    "smartContracts": {
+      "RDTToken": "0x4af9961123588b7581460f307574cf463ef2a3f5",
+      "RDTTokenLP": "0x29Ff3B4C2c791CbBf3e77730cfe41E3Fd81b1540",
+      "contracts": {
+        "PoolDeployer": {
+          "address": "0x9c70201Bc5d28Bfb61bf92743a2c4BCe818Dd976"
+        },
+        "NftFactory": {
+          "address": "0x3ceeb6E4050531F39baD55DFe5bFb4796473b345"
+        },
+        "MasterCroupier": {
+          "address": ""
+        },
+        "Lottery": {
+          "address": "0x916Aa8a124dD7d9c5D22a29E3d789603b2C19085"
+        }
+      }
+    }
+  },
+  {
+    "code": "sepolia",
+    "symbol": "ETH",
+    "networkIcon": "/tokens/eth.png",
+    "publicRPC": "https://rpc.sepolia.org",
+    "verifyOnBlockchain": "https://sepolia.etherscan.io",
+    "name": "Sepolia",
+    "chainId": "0xaa36a7",
+    "test": true,
+    "node": "https://sepolia.infura.io/v3/8938a785908949ec8e378b4e2d332360",
+    "multicall": "0x5BA1e12693Dc8F9c48aAD8770482f4739bEeD696",
+    "priceCalculation": {
+      "usdt": "0x0F7D4865e5A9ED0d5850d9DD0CF0dD9643F35BE8",
+      "wbnb": "0xb13d30f6C6e951D57a103DE37B4735181b2148c8",
+      "pcsRouter": ""
+    },
+    "smartContracts": {
+      "RDTToken": "0x993c4c029d516acf8E92113D69e98A4c2cD47C2B",
+      "RDTTokenLP": "",
+      "contracts": {
+        "PoolDeployer": {
+          "address": ""
+        },
+        "NftFactory": {
+          "address": ""
+        },
+        "MasterCroupier": {
+          "address": ""
+        },
+        "Lottery": {
+          "address": ""
+        },
+        "GlobalBankroll": {
+          "address": "0x4dA3A16AA6F21b8D006a6b550433854Dc6EA6A82"
+        }
+      }
+    }
+  },
+  {
+    "code": "POLYGON",
+    "symbol": "MATIC",
+    "publicRPC": "https://polygon-rpc.com",
+    "verifyOnBlockchain": "https://polygonscan.com/",
+    "name": "Polygon",
+    "chainId": "0x89",
+    "azuroLink": "https://thegraph.azuro.org/subgraphs/name/azuro-protocol/azuro-api-polygon-v3",
+    "node": "https://cosmological-blue-ensemble.matic.quiknode.pro/3fdf12afec20dabfff3499d39302e8a648f60097/",
+    "multicall": "0x275617327c958bD06b5D6b871E7f491D76113dd8",
+    "priceCalculation": {
+      "usdt": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+      "wbnb": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+      "pcsRouter": "0x1b02da8cb0d097eb8d57a175b88c7d8b47997506"
+    },
+    "smartContracts": {
+      "RDTToken": "0x4af9961123588b7581460f307574cf463ef2a3f5",
+      "RDTTokenLP": "0x29Ff3B4C2c791CbBf3e77730cfe41E3Fd81b1540",
+      "contracts": {
+        "PoolDeployer": {
+          "address": ""
+        },
+        "LPAddress": {
+          "address": "0x7043E4e1c4045424858ECBCED80989FeAfC11B36"
+        },
+        "CoreExpress": {
+          "address": "0x92a4e8Bc6B92a2e1ced411f41013B5FE6BE07613"
+        },
+        "CoreAddress": {
+          "address": "0xA40F8D69D412b79b49EAbdD5cf1b5706395bfCf7"
+        },
+        "ProxyFront": {
+          "address": "0x0DEE52b98ba8326DaD4C346a4F806Fd871360a00"
+        },
+        "NftFactory": {
+          "address": ""
+        },
+        "MasterCroupier": {
+          "address": ""
+        },
+        "Lottery": {
+          "address": "0x80FD2106f4E3A214dD264a01426f376E328EA843"
+        }
+      }
+    }
+  },
+  {
+    "code": "POLYGON",
+    "symbol": "MATIC",
+    "test": true,
+    "publicRPC": "https://rpc-mumbai.maticvigil.com/",
+    "verifyOnBlockchain": "https://mumbai.polygonscan.com/",
+    "name": "Mumbai",
+    "chainId": "0x13881",
+    "azuroLink": "https://thegraph.azuro.org/subgraphs/name/azuro-protocol/azuro-api-mumbai-dev-v3",
+    "node": "https://cosmological-blue-ensemble.matic.quiknode.pro/3fdf12afec20dabfff3499d39302e8a648f60097/",
+    "multicall": "0xe9939e7Ea7D7fb619Ac57f648Da7B1D425832631",
+    "priceCalculation": {
+      "usdt": "0xe656De3EC9eFf1B851e0b39AFFaa1478353885a4",
+      "wbnb": "0x85b8154Bd379b0dEf3586381B37D48aF1f5AC75a",
+      "pcsRouter": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D"
+    },
+    "smartContracts": {
+      "RDTToken": "0x4af9961123588b7581460f307574cf463ef2a3f5",
+      "RDTTokenLP": "0x29Ff3B4C2c791CbBf3e77730cfe41E3Fd81b1540",
+      "contracts": {
+        "PoolDeployer": {
+          "address": ""
+        },
+        "LPAddress": {
+          "address": "0xA39e988b357122D9ba75C0038E625a5ab9363F54"
+        },
+        "CoreExpress": {
+          "address": "0xb7f1B3dA0eECf0a084cdd16Df917216BB72b42f5"
+        },
+        "CoreAddress": {
+          "address": "0x33742d3D8bE5A7F47D2eC1fA39fDa9FCB5288727"
+        },
+        "ProxyFront": {
+          "address": "0x0a727CE540258f9736eAfcD411e57Caf5a3B3b6C"
+        },
+        "NftFactory": {
+          "address": ""
+        },
+        "MasterCroupier": {
+          "address": ""
+        },
+        "Lottery": {
+          "address": "0x424e9c2a248AbF7fb719d1e90BDD78D052601Bd7"
+        }
+      }
+    }
+  },
+  {
+    "code": "ARBITRUM",
+    "symbol": "ETH",
+    "publicRPC": "https://arb1.arbitrum.io/rpc",
+    "verifyOnBlockchain": "https://arbiscan.io/",
+    "name": "Arbitrum",
+    "chainId": "0xa4b1",
+    "node": "https://lingering-fragrant-reel.arbitrum-mainnet.quiknode.pro/d57f7f28d1f18320008a7c898aa11051fa955d77/",
+    "multicall": "0x7a7443f8c577d537f1d8cd4a629d40a3148dd7ee",
+    "priceCalculation": {
+      "usdt": "0x3c81Ed9b4864be1B90452c55965c649E3f9B456b",
+      "wbnb": "0x85b8154Bd379b0dEf3586381B37D48aF1f5AC75a",
+      "pcsRouter": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D"
+    },
+    "smartContracts": {
+      "RDTToken": "0x4af9961123588b7581460f307574cf463ef2a3f5",
+      "RDTTokenLP": "0x29Ff3B4C2c791CbBf3e77730cfe41E3Fd81b1540",
+      "contracts": {
+        "PoolDeployer": {
+          "address": ""
+        },
+        "NftFactory": {
+          "address": ""
+        },
+        "MasterCroupier": {
+          "address": ""
+        },
+        "Lottery": {
+          "address": "0x424e9c2a248AbF7fb719d1e90BDD78D052601Bd7"
+        }
+      }
+    }
+  },
+  {
+    "code": "ARBITRUM",
+    "test": true,
+    "symbol": "ETH",
+    "publicRPC": "https://goerli-rollup.arbitrum.io/rpc",
+    "verifyOnBlockchain": "https://testnet.arbiscan.io/",
+    "name": "Arb Testnet",
+    "chainId": "0x66EED",
+    "node": "https://cosmopolitan-snowy-brook.arbitrum-goerli.quiknode.pro/ce685c0ef17ef4f34ed38ec4e38e7404d1584b83/",
+    "multicall": "0xcA11bde05977b3631167028862bE2a173976CA11",
+    "": "",
+    "priceCalculation": {
+      "usdt": "0x3c81Ed9b4864be1B90452c55965c649E3f9B456b",
+      "wbnb": "0x85b8154Bd379b0dEf3586381B37D48aF1f5AC75a",
+      "pcsRouter": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D"
+    },
+    "smartContracts": {
+      "RDTToken": "0x4af9961123588b7581460f307574cf463ef2a3f5",
+      "RDTTokenLP": "0x29Ff3B4C2c791CbBf3e77730cfe41E3Fd81b1540",
+      "contracts": {
+        "PoolDeployer": {
+          "address": ""
+        },
+        "NftFactory": {
+          "address": ""
+        },
+        "MasterCroupier": {
+          "address": ""
+        },
+        "Lottery": {
+          "address": "0x424e9c2a248AbF7fb719d1e90BDD78D052601Bd7"
+        }
+      }
+    }
+  }
+]

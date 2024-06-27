@@ -1,0 +1,39 @@
+[
+  {
+    "image": "/images/home/hot-games/lottery.png",
+    "title": "Daily Lottery",
+    "subtitle": "Jackpot Lottery",
+    "finished": true,
+    "jackpot": "10.000",
+    "endIn": "23d",
+    "token": "busd",
+    "collected": false
+  },
+  {
+    "image": "/images/home/hot-games/tesla.png",
+    "title": "Tesla",
+    "subtitle": "Wishlist Lottery",
+    "finished": false,
+    "completed": "100.000",
+    "limit": "500.000",
+    "token": "btc",
+    "collected": false
+  },
+  {
+    "image": "/images/home/hot-games/hangover.png",
+    "title": "Hangover",
+    "subtitle": "Slot Game",
+    "collected": true,
+    "finished": true
+  },
+  {
+    "image": "/images/home/hot-games/rolex.png",
+    "title": "Rolex",
+    "subtitle": "Wishlist Lottery",
+    "token": "btc",
+    "finished": false,
+    "collected": false,
+    "completed": "100.000",
+    "limit": "500.000"
+  }
+]

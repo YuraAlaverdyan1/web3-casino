@@ -1,0 +1,33 @@
+[
+  {
+    "image": "/images/profile/play-ads/ad1.png",
+    "subtitle": "BE THE",
+    "title": "HOUSE",
+    "btnText": "Start Building",
+    "btnTextColor": "white",
+    "btnColor": "#FF6600",
+    "linkHoverColor": "#9E68FF",
+    "rdt": true,
+    "details": {
+      "title": "Build Your Own Casino and Be the House",
+      "subtitle": "Get ready to unleash your inner creativity and build your own customized casino games.Become the house and enjoy the rewards of outstanding profits.",
+      "linkText": "Start Building"
+    }
+  },
+  {
+    "image": "/images/profile/play-ads/ad2.png",
+    "subtitle": "stake and earn",
+    "title": "FARM",
+    "title2": "NFT’s",
+    "btnText": "Buy on Opensea",
+    "btnTextColor": "black",
+    "btnColor": "#B9FF6E",
+    "linkHoverColor": "#B9FF6E",
+    "rdt": false,
+    "details": {
+      "title": "Stake $RDT and Farm Your Casino ownership NFTs!",
+      "subtitle": "Stake $RDT and earn casino ownership NFTs. Own and deploy your own casino products, and even customize the mechanics, token type, and UI to your liking. NFT Farming is a unique opportunity to become the house and earn income while engaging your community.",
+      "linkText": "Buy on Opensea"
+    }
+  }
+]

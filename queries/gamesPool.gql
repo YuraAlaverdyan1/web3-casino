@@ -1,0 +1,8 @@
+query GlobalBankroll {
+  tokens(first: 20) {
+    id
+    address
+    trxHash
+    isValid
+  }
+}

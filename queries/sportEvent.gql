@@ -1,0 +1,33 @@
+query Game($id: String!) {
+  game(id: $id) {
+    sport {
+      name
+      slug
+    }
+    league {
+      name
+      country {
+        name
+      }
+    }
+    participants {
+      name
+      image
+    }
+    startsAt
+    conditions {
+      conditionId
+      status
+      isExpressForbidden
+      outcomes {
+        id
+        outcomeId
+        currentOdds
+      }
+      core {
+        address
+        type
+      }
+    }
+  }
+}

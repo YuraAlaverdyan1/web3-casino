@@ -1,0 +1,13 @@
+{
+  "data": [
+    {
+      "title": "Chance to win",
+      "data": "4/50"
+    },
+    {
+      "title": "Max Payout",
+      "data": "0.003"
+    }
+  ],
+  "buttons": [0, 1, 2, 3, 4, 10]
+}

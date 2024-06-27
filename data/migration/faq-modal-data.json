@@ -1,0 +1,35 @@
+{
+  "beginner": {
+    "text": {
+      "top": "Migration Ridotto",
+      "middle": "New to migration?",
+      "bottom": "Follow our easy, step-by-step basic guide to securely migrate your assets."
+    },
+    "progress": [
+      {
+        "status": "In progress",
+        "sub": "Migrate NFT Pool"
+      },
+      {
+        "status": "Waiting",
+        "sub": "Migrate Staking Pool"
+      },
+      {
+        "status": "Waiting",
+        "sub": "Migrate Ridotto Token"
+      },
+      {
+        "status": "Waiting",
+        "sub": "Migration Complete"
+      }
+    ]
+  },
+  "expert": {
+    "text": {
+      "top": "Migration Ridotto",
+      "middle": "Experienced Users",
+      "bottom": "Already familiar with token migration? Proceed with our advanced guide for a quick and efficient swap process."
+    },
+    "progress": []
+  }
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "url": "https://twitter.com/ridotto_io",
+    "image": "/images/menu/twitter.svg"
+  },
+  {
+    "url": "https://www.instagram.com/ridotto.io/",
+    "image": "/images/footer/instagram.svg"
+  },
+  {
+    "url": "https://t.me/ridotto_community",
+    "image": "/images/menu/telegram.svg"
+  },
+  {
+    "url": "https://discord.com/invite/ridotto",
+    "image": "/images/menu/discord.svg"
+  },
+  {
+    "url": "https://ridotto-io.medium.com/",
+    "image": "/images/footer/m-logo.svg"
+  },
+  {
+    "url": "https://www.facebook.com/ridotto.io",
+    "image": "/images/footer/facebook.svg"
+  },
+  {
+    "url": "https://www.youtube.com/channel/UCxumaSF7pnu29f5kU4FAJbw",
+    "image": "/images/footer/youtube.svg"
+  },
+  {
+    "url": "https://www.reddit.com/r/ridotto_io/",
+    "image": "/images/footer/reddit.svg"
+  }
+]

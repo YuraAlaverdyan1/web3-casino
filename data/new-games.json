@@ -1,0 +1,46 @@
+[
+  {
+    "image": "/images/home/new-games/game1.png",
+    "title": "Daily Lottery",
+    "date": "16/3/2023",
+    "type": "lottery",
+    "subtitle": "Drawn Every Day, 24 Hours",
+    "amount": "100000",
+    "token": "matic",
+    "endIn": "23d",
+    "percent": 6.64
+  },
+  {
+    "image": "/images/home/new-games/game2.png",
+    "title": "Daily Lottery",
+    "date": "21/3/2023",
+    "type": "slot",
+    "subtitle": "Drawn Every Day, 24 Hours",
+    "amount": "100000",
+    "token": "rdt",
+    "endIn": "23d",
+    "percent": 6.64
+  },
+  {
+    "image": "/images/home/new-games/game3.png",
+    "title": "Daily Lottery",
+    "date": "7/4/2023",
+    "type": "lottery",
+    "subtitle": "Drawn Every Day, 24 Hours",
+    "amount": "100000",
+    "token": "busd",
+    "endIn": "23d",
+    "percent": 6.64
+  },
+  {
+    "image": "/images/home/new-games/game1.png",
+    "title": "Daily Lottery",
+    "type": "lottery",
+    "date": "16/3/2023",
+    "subtitle": "Drawn Every Day, 24 Hours",
+    "amount": "100000",
+    "token": "matic",
+    "endIn": "23d",
+    "percent": 6.64
+  }
+]

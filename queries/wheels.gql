@@ -1,0 +1,15 @@
+query Wheels {
+  spins(first: 1000, orderBy: timestamp, orderDirection: desc) {
+    id
+    player
+    wager
+    token
+    payOut
+    outComes
+    numOfBets
+    reqId
+    timestamp
+    trxHash
+    claimed
+  }
+}

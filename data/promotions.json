@@ -1,0 +1,30 @@
+[
+  {
+    "image": "/images/casino/promotions/img1.svg",
+    "title": "BLOCKCHAIN BOOSTS",
+    "amount": 10.0,
+    "token": "busd",
+    "color": "#FF6600"
+  },
+  {
+    "image": "/images/casino/promotions/img2.svg",
+    "title": "EFFORTLESS BENEFITS",
+    "amount": 25,
+    "token": "eth",
+    "color": "#6600FF"
+  },
+  {
+    "image": "/images/casino/promotions/img3.svg",
+    "title": "SECURE REWARDS",
+    "amount": 5000,
+    "token": "avax",
+    "color": "#B9FF6E"
+  },
+  {
+    "image": "/images/casino/promotions/img4.svg",
+    "title": "CRYPTO PERKS",
+    "amount": 10,
+    "token": "btc",
+    "color": "#9E68FF"
+  }
+]

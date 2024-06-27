@@ -1,0 +1,14 @@
+{
+  "profile": {
+    "networks": [56]
+  },
+  "casino": {
+    "networks": [56]
+  },
+  "sports": {
+    "networks": [137]
+  },
+  "leaderboard": {
+    "networks": [56, 137]
+  }
+}

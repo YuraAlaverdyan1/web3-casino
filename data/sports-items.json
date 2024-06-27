@@ -1,0 +1,70 @@
+[
+  { "name": "Home", "link": "", "formattedName": "Home", "slug": "home" },
+  {
+    "name": "My bets",
+    "link": "my-bets",
+    "formattedName": "My bets",
+    "slug": "my-bets"
+  },
+  {
+    "name": "Football",
+    "link": "football",
+    "formattedName": "Football",
+    "slug": "football"
+  },
+  {
+    "name": "Basketball",
+    "link": "basketball",
+    "formattedName": "Basketball",
+    "slug": "basketball"
+  },
+  {
+    "name": "Tennis",
+    "link": "tennis",
+    "formattedName": "Tennis",
+    "slug": "tennis"
+  },
+  {
+    "name": "Cricket",
+    "link": "cricket",
+    "formattedName": "Cricket",
+    "slug": "cricket"
+  },
+  { "name": "MMA", "link": "mma", "formattedName": "MMA", "slug": "mma" },
+  {
+    "name": "Boxing",
+    "link": "boxing",
+    "formattedName": "Boxing",
+    "slug": "boxing"
+  },
+  {
+    "name": "Ice Hockey",
+    "link": "ice-hockey",
+    "formattedName": "Ice Hock.",
+    "slug": "ice-hockey"
+  },
+  {
+    "name": "American Football",
+    "link": "american-football",
+    "formattedName": "American",
+    "slug": "american-football"
+  },
+  {
+    "name": "Baseball",
+    "link": "baseball",
+    "formattedName": "Baseball",
+    "slug": "baseball"
+  },
+  {
+    "name": "Rugby Union",
+    "link": "rugby-union",
+    "formattedName": "Rugby U.",
+    "slug": "rugby-union"
+  },
+  {
+    "name": "Rugby League",
+    "link": "rugby-league",
+    "formattedName": "Rugby L.",
+    "slug": "rugby-league"
+  }
+]

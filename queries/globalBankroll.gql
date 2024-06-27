@@ -1,0 +1,11 @@
+query GlobalBankroll {
+  rewards(first: 500, orderBy: timestamp, orderDirection: desc) {
+    game
+    amount
+    id
+    timestamp
+    token
+    trxHash
+    user
+  }
+}

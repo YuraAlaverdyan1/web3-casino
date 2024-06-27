@@ -1,0 +1,104 @@
+{
+  "name": "@ridotto/play-interface",
+  "description": "Ridotto Play Interface",
+  "homepage": "https://play.ridotto.io",
+  "license": "Ridotto UI License",
+  "private": true,
+  "version": "1.0.0",
+  "keywords": [
+    "ridotto",
+    "template",
+    "smart contract",
+    "gambling",
+    "lottery",
+    "protocol",
+    "template",
+    "card decks",
+    "GambleFi"
+  ],
+  "scripts": {
+    "nuxt:dev": "nuxi dev",
+    "nuxt:build": "nuxi build",
+    "nuxt:start": "nuxi start",
+    "nuxt:preview": "nuxi preview",
+    "nuxt:ipfs": "rm -f .env && mv .env.ipfs .env && npm ci --legacy-peer-deps && npm run nuxt:generate",
+    "lint:check": "eslint --ignore-path .gitignore --ext .ts,.vue .",
+    "lint:fix": "eslint --ignore-path .gitignore --ext .ts,.vue --fix .",
+    "format:check": "prettier . --check",
+    "format:fix": "prettier . --write",
+    "nuxt:generate": "nuxi generate",
+    "chain": "hardhat node --port 8546",
+    "test:install": "npx playwright install --with-deps",
+    "test:profile": "npx playwright test -c e2e/playwright.config.ts e2e/profile/profile.spec.ts",
+    "test:referral": "npx playwright test -c e2e/playwright.config.ts e2e/referral/referral.spec.ts",
+    "test:play": "npx playwright test -c e2e/playwright.config.ts e2e/play/play.spec.ts",
+    "test:wrong": "npx playwright test -c e2e/playwright.config.ts e2e/wrong-network/wrong-network.spec.ts",
+    "test:smoke": "npx playwright test -c e2e/playwright.config.ts e2e/smoke/smoke.spec.ts",
+    "test:play-success": "npx playwright test -c e2e/playwright.config.ts e2e/play-success/play-success.spec.ts",
+    "test:all": "npm run test:wrong && npm run test:smoke && npm run test:play"
+  },
+  "devDependencies": {
+    "@nuxt/types": "^2.15.8",
+    "@nuxtjs/eslint-config-typescript": "^12.0.0",
+    "@nuxtjs/i18n": "^8.2.0",
+    "@nuxtjs/svg": "^0.4.0",
+    "@playwright/test": "^1.41.2",
+    "@tenkeylabs/dappwright": "2.8.2",
+    "@vueuse/nuxt": "^10.2.0",
+    "autoprefixer": "^10.4.14",
+    "ethers": "^6.10.0",
+    "hardhat": "^2.19.5",
+    "husky": "^8.0.3",
+    "nuxt": "^3.4.3",
+    "nuxt-aos": "^1.2.2",
+    "postcss": "^8.4.21",
+    "sass": "^1.56.1",
+    "vitest": "^0.23.2"
+  },
+  "dependencies": {
+    "@azuro-org/toolkit": "^3.0.0",
+    "@chenfengyuan/vue-countdown": "^2.1.2",
+    "@nuxt/typescript-build": "^3.0.1",
+    "@nuxt/vite-builder": "^3.2.3",
+    "@nuxtjs/apollo": "^5.0.0-alpha.6",
+    "@oruga-ui/oruga-next": "^0.5.10",
+    "@ridotto-io/w3-core": "3.6.8-alpha.0",
+    "@ridotto-io/w3-wagmi": "3.6.8-alpha.0",
+    "@sentry/vue": "^7.91.0",
+    "@vuelidate/core": "^2.0.0",
+    "@vuelidate/validators": "^2.0.0",
+    "@wagmi/core": "^1.4.5",
+    "axios": "^1.2.2",
+    "bignumber.js": "^9.1.2",
+    "click-outside-vue3": "^4.0.1",
+    "dayjs": "^1.11.10",
+    "eslint": "^8.50.0",
+    "ethereum-blockies-base64": "^1.0.2",
+    "ethereum-multicall": "^2.19.0",
+    "gsap": "^3.12.2",
+    "lint-staged": "^13.1.0",
+    "matter-js": "^0.19.0",
+    "prettier": "^2.8.3",
+    "tailwindcss": "^3.3.0",
+    "viem": "^1.17.2",
+    "vue": "^3.4.21",
+    "vue-router": "^4.1.6",
+    "vue-slider-component": "^3.2.24",
+    "vue3-lottie": "^3.2.0",
+    "vue3-recaptcha2": "^1.8.0",
+    "web3": "^4.2.0"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.{ts,js,vue}": [
+      "npm run lint:fix"
+    ],
+    "*.{js,ts,vue,css,md,html,json}": [
+      "npm run format:fix"
+    ]
+  }
+}

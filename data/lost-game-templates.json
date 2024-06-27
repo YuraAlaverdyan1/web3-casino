@@ -1,0 +1,55 @@
+{
+  "messages": [
+    { "message": "Tough break, [username]! Next time's your charm." },
+    {
+      "message": "Hard luck, [username]! Another shot for better fortune."
+    },
+    { "message": "Unlucky, [username]! Luck improves with each try." },
+    { "message": "Rough luck, [username]! Success awaits your next bet." },
+    {
+      "message": "Not your day, [username]! Try again, luck's on the horizon."
+    },
+    {
+      "message": "Tough break, [username]! Bet again, watch your luck turn."
+    },
+    {
+      "message": "Hard luck this round, [username]! Next try, better fortune."
+    },
+    {
+      "message": "Tough one, [username]! Tables will flip on your next bet."
+    },
+    {
+      "message": "Close call, [username]! Next time's your win, try again!"
+    },
+    {
+      "message": "Chin up, [username]! Retry, let luck smile on your next bet."
+    }
+  ],
+  "messagesMobile": [
+    {
+      "message": "Unlucky, try again!"
+    },
+    {
+      "message": "No win, go for another round!"
+    },
+
+    {
+      "message": "Better luck next time!"
+    },
+    {
+      "message": "No win, go for another round!"
+    },
+    {
+      "message": "No luck, attempt again!"
+    },
+    {
+      "message": "Didn't work out, try once again!"
+    },
+    {
+      "message": "Missed this time, try anew!"
+    },
+    {
+      "message": "Not this time, have another try!"
+    }
+  ]
+}

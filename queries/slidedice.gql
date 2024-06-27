@@ -1,0 +1,13 @@
+query SlideDices {
+  rolls(first: 1000, orderBy: timestamp, orderDirection: desc) {
+    player
+    numOfBets: numberOfBets
+    isOver
+    multiplier
+    wager
+    payOut
+    timestamp
+    trxHash
+    token: tokenAddress
+  }
+}

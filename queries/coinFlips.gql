@@ -1,0 +1,15 @@
+query CoinFlips {
+  coinFlips(first: 1000, orderBy: timestamp, orderDirection: desc) {
+    id
+    player
+    wager
+    token
+    isHeads
+    numOfBets
+    payOut
+    reqId
+    timestamp
+    trxHash
+    claimed
+  }
+}

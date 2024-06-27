@@ -1,0 +1,563 @@
+{
+  "refLink": "https://ridotto.io/ozgur",
+  "navInfo": {
+    "name": "Ozgur Baltutan",
+    "image": "/images/profile/user-info/avatar.png",
+
+    "play": {
+      "rank": {
+        "name": "Newcomer",
+        "lvl": 2,
+        "progress": 22
+      },
+      "cashback": {
+        "from": "2%",
+        "to": "3%"
+      }
+    },
+    "bankroll": {
+      "progress": 20,
+      "total": "2 526 889 021 RDT",
+      "average": "35.62%",
+      "daily": "2.2 USDT",
+      "thisMonth": "73 USDT",
+      "totalEarning": "2231541 USDT"
+    },
+    "build": {
+      "wagered": "2 526 889 021 RDT",
+      "consumed": 60,
+      "users": 1241
+    }
+  },
+  "play": {
+    "games": "1215",
+    "bonusPrizes": "$325",
+    "challangesComplete": "903",
+    "tickets": {
+      "toBeClaimed": 1,
+      "draw": 2
+    },
+    "playGamesInfo": {
+      "top": [
+        {
+          "image": "/images/profile/top-played-games/game1.png",
+          "wagered": "$902.0492",
+          "name": "Demon Inc.",
+          "token": "busd",
+          "percent": "6.64",
+          "type": "Slot Game"
+        },
+        {
+          "image": "/images/profile/top-played-games/game2.png",
+          "wagered": "$304.5912",
+          "name": "Savage",
+          "token": "rdt",
+          "percent": "6.64",
+          "type": "Dice Game"
+        },
+        {
+          "image": "/images/profile/top-played-games/game4.png",
+          "wagered": "$96.0051",
+          "name": "Witching Hour",
+          "token": "btc",
+          "percent": "6.64",
+          "type": "Card Game"
+        },
+        {
+          "image": "/images/profile/top-played-games/game3.png",
+          "wagered": "$221.5122",
+          "name": "Hangover",
+          "token": "eth",
+          "percent": "6.64",
+          "type": "Wheel Game"
+        }
+      ],
+      "recent": [
+        {
+          "image": "/images/profile/top-played-games/game4.png",
+          "wagered": "$902.0492",
+          "name": "Witching Hour",
+          "token": "btc",
+          "percent": "6.64",
+          "type": "Card Game"
+        },
+        {
+          "image": "/images/profile/top-played-games/game3.png",
+          "wagered": "$304.5912",
+          "name": "Hangover",
+          "token": "eth",
+          "percent": "6.64",
+          "type": "Wheel Game"
+        },
+        {
+          "image": "/images/profile/top-played-games/game2.png",
+          "wagered": "$221.5122",
+          "name": "Savage",
+          "token": "rdt",
+          "percent": "6.64",
+          "type": "Dice Game"
+        },
+        {
+          "image": "/images/profile/top-played-games/game1.png",
+          "wagered": "$96.0051",
+          "name": "Demon Inc.",
+          "token": "busd",
+          "percent": "6.64",
+          "type": "Slot Game"
+        }
+      ]
+    }
+  },
+  "build": {
+    "owned": [
+      {
+        "image": "/images/profile/owned/game1.png",
+        "name": "Demon INC",
+        "editable": true,
+        "details": [
+          {
+            "key": "Users",
+            "value": {
+              "text": "$1.20",
+              "type": "text",
+              "color": "white"
+            }
+          },
+          {
+            "key": "Wagered",
+            "value": {
+              "text": "$241.231",
+              "type": "text",
+              "color": "white"
+            }
+          },
+          {
+            "key": "Type",
+            "value": {
+              "text": "Slot",
+              "type": "text",
+              "color": "white"
+            }
+          },
+          {
+            "key": "Chain",
+            "value": { "text": "/images/bnb.png", "type": "image" }
+          },
+          {
+            "key": "NFT",
+            "value": {
+              "text": "Platform",
+              "type": "text",
+              "color": "white"
+            }
+          },
+          {
+            "key": "Cashback",
+            "value": {
+              "text": "%2.23",
+              "type": "text",
+              "color": "white"
+            }
+          }
+        ]
+      },
+      {
+        "image": "/images/profile/owned/game2.png",
+        "name": "Hangover",
+        "editable": true,
+        "details": [
+          {
+            "key": "Users",
+            "value": {
+              "text": "$1.20",
+              "type": "text",
+              "color": "white"
+            }
+          },
+          {
+            "key": "Wagered",
+            "value": {
+              "text": "$241.231",
+              "type": "text",
+              "color": "white"
+            }
+          },
+          {
+            "key": "Type",
+            "value": {
+              "text": "Slot",
+              "type": "text",
+              "color": "white"
+            }
+          },
+          {
+            "key": "Chain",
+            "value": {
+              "text": "/images/matic.png",
+              "type": "image"
+            }
+          },
+          {
+            "key": "NFT",
+            "value": {
+              "text": "Platform",
+              "type": "text",
+              "color": "white"
+            }
+          },
+          {
+            "key": "Cashback",
+            "value": {
+              "text": "%2.23",
+              "type": "text",
+              "color": "white"
+            }
+          }
+        ]
+      },
+      {
+        "image": "/images/profile/owned/game3.png",
+        "name": "Savage",
+        "editable": true,
+        "details": [
+          {
+            "key": "Users",
+            "value": {
+              "text": "$1.20",
+              "type": "text",
+              "color": "white"
+            }
+          },
+          {
+            "key": "Wagered",
+            "value": {
+              "text": "$241.231",
+              "type": "text",
+              "color": "white"
+            }
+          },
+          {
+            "key": "Type",
+            "value": {
+              "text": "Slot",
+              "type": "text",
+              "color": "white"
+            }
+          },
+          {
+            "key": "Chain",
+            "value": { "text": "/images/btc.png", "type": "image" }
+          },
+          {
+            "key": "NFT",
+            "value": {
+              "text": "Platform",
+              "type": "text",
+              "color": "white"
+            }
+          },
+          {
+            "key": "Cashback",
+            "value": {
+              "text": "%2.23",
+              "type": "text",
+              "color": "white"
+            }
+          }
+        ]
+      }
+    ],
+    "nfts": [
+      {
+        "name": "Lottery",
+        "image": "/images/profile/nfts/game1.png",
+        "editable": false,
+        "linkText": "Buy on Opensea",
+        "details": [
+          {
+            "key": "Name",
+            "value": {
+              "text": "Lottery",
+              "type": "text",
+              "color": "white"
+            }
+          },
+          {
+            "key": "NFT ID",
+            "value": {
+              "text": "123151",
+              "type": "text",
+              "color": "white"
+            }
+          },
+          {
+            "key": "Created",
+            "value": {
+              "text": "12.02.22",
+              "type": "text",
+              "color": "white"
+            }
+          },
+          {
+            "key": "Earnings",
+            "value": {
+              "text": "0.2%",
+              "type": "text",
+              "color": "white"
+            }
+          },
+          {
+            "key": "Blockchain",
+            "value": {
+              "text": "BNB Chain (BEP-20)",
+              "type": "text",
+              "color": "white"
+            }
+          },
+          {
+            "key": "NFT State",
+            "value": {
+              "text": "Empty",
+              "type": "text",
+              "color": "#FF4757"
+            }
+          },
+          {
+            "key": "Remaining",
+            "value": {
+              "text": "35.62%",
+              "type": "text",
+              "color": "white"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Slot Machine",
+        "image": "/images/profile/nfts/game2.png",
+        "editable": false,
+        "linkText": "Buy on Opensea",
+        "details": [
+          {
+            "key": "Name",
+            "value": {
+              "text": "Slot Machine",
+              "type": "text",
+              "color": "white"
+            }
+          },
+          {
+            "key": "NFT ID",
+            "value": {
+              "text": "123151",
+              "type": "text",
+              "color": "white"
+            }
+          },
+          {
+            "key": "Created",
+            "value": {
+              "text": "12.02.22",
+              "type": "text",
+              "color": "white"
+            }
+          },
+          {
+            "key": "Earnings",
+            "value": {
+              "text": "0.2%",
+              "type": "text",
+              "color": "white"
+            }
+          },
+          {
+            "key": "Blockchain",
+            "value": {
+              "text": "BNB Chain (BEP-20)",
+              "type": "text",
+              "color": "white"
+            }
+          },
+          {
+            "key": "NFT State",
+            "value": {
+              "text": "In progress",
+              "type": "text",
+              "color": "#FF9E26"
+            }
+          },
+          {
+            "key": "Remaining",
+            "value": {
+              "text": "35.62%",
+              "type": "text",
+              "color": "white"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "bankroll": {
+    "staking": [
+      {
+        "name": "Staking and Governance",
+        "games": [
+          {
+            "name": "Governance Pool",
+            "estimated": "%5.22",
+            "stake": "0.0000",
+            "token": "rdt",
+            "bigImage": "/images/rdt-big.png",
+            "totalReward": {
+              "reward": "0.00089425",
+              "progress": 20,
+              "lockTime": "29 Days"
+            }
+          },
+          {
+            "name": "Cake LP - RDT/BNB",
+            "estimated": "%5.22",
+            "stake": "0.0000",
+            "token": "bnb",
+            "bigImage": "/images/bnb-big.png",
+            "totalReward": {
+              "reward": "0.00089425",
+              "progress": 20,
+              "lockTime": ""
+            }
+          }
+        ],
+        "stakedGames": [
+          {
+            "name": "Governance Pool",
+            "estimated": "%5.22",
+            "stake": "0.0000",
+            "token": "rdt",
+            "bigImage": "/images/profile/stakedGames/game1.svg",
+            "totalReward": {
+              "reward": "0.00089425",
+              "progress": 20,
+              "lockTime": "29 Days"
+            }
+          },
+          {
+            "name": "Cake LP - RDT/BNB",
+            "estimated": "%5.22",
+            "stake": "0.0000",
+            "token": "bnb",
+            "bigImage": "/images/profile/stakedGames/game2.svg",
+            "totalReward": {
+              "reward": "0.00089425",
+              "progress": 20,
+              "lockTime": ""
+            }
+          },
+          {
+            "name": "Governance Pool",
+            "estimated": "%5.22",
+            "stake": "0.0000",
+            "token": "rdt",
+            "bigImage": "/images/profile/stakedGames/game3.svg",
+            "totalReward": {
+              "reward": "0.00089425",
+              "progress": 20,
+              "lockTime": "29 Days"
+            }
+          },
+          {
+            "name": "Cake LP - RDT/BNB",
+            "estimated": "%5.22",
+            "stake": "0.0000",
+            "token": "bnb",
+            "bigImage": "/images/profile/stakedGames/game4.svg",
+            "totalReward": {
+              "reward": "0.00089425",
+              "progress": 20,
+              "lockTime": ""
+            }
+          }
+        ]
+      },
+      {
+        "name": "Games Pool",
+        "games": [
+          {
+            "name": "Roulette Pool",
+            "estimated": "%5.22",
+            "stake": "0.0000",
+            "token": "rdt",
+            "bigImage": "/images/roulette.png",
+            "totalReward": {
+              "reward": "0.00089425",
+              "progress": 20,
+              "lockTime": "29 Days"
+            }
+          },
+          {
+            "name": "Slot Pool",
+            "estimated": "%5.22",
+            "stake": "0.0000",
+            "token": "bnb",
+            "bigImage": "/images/slot.png",
+            "totalReward": {
+              "reward": "0.00089425",
+              "progress": 20,
+              "lockTime": ""
+            }
+          },
+          {
+            "name": "Dice Pool",
+            "estimated": "%5.22",
+            "stake": "0.0000",
+            "token": "rdt",
+            "bigImage": "/images/dice.png",
+            "totalReward": {
+              "reward": "0.00089425",
+              "progress": 20,
+              "lockTime": "29 Days"
+            }
+          },
+          {
+            "name": "Cards Pool",
+            "estimated": "%5.22",
+            "stake": "0.0000",
+            "token": "bnb",
+            "bigImage": "/images/cards.png",
+            "totalReward": {
+              "reward": "0.00089425",
+              "progress": 20,
+              "lockTime": ""
+            }
+          }
+        ],
+        "stakedGames": [
+          {
+            "name": "Governance Pool",
+            "estimated": "%5.22",
+            "stake": "0.0000",
+            "token": "rdt",
+            "bigImage": "/images/profile/stakedGames/game1.svg",
+            "totalReward": {
+              "reward": "0.00089425",
+              "progress": 20,
+              "lockTime": "29 Days"
+            }
+          },
+          {
+            "name": "Cake LP - RDT/BNB",
+            "estimated": "%5.22",
+            "stake": "0.0000",
+            "token": "bnb",
+            "bigImage": "/images/profile/stakedGames/game2.svg",
+            "totalReward": {
+              "reward": "0.00089425",
+              "progress": 20,
+              "lockTime": ""
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

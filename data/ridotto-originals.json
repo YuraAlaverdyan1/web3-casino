@@ -1,0 +1,506 @@
+{
+  "games": [
+    {
+      "id": 0,
+      "name": "coinflip",
+      "formattedName": "coinflip",
+      "description": "Experience the thrill of Ridotto's Coinflip, where you predict the outcome of a unique toss – Ridotto logo or Joker head. Quick, easy rounds deliver immediate excitement, testing your luck in a captivating game of chance. Will the Ridotto logo be your lucky charm, or will the Joker head bring you victory? Place your bet and find out in this engaging and fast-paced game!",
+      "tooltip": "Experience the thrill of Ridotto's Coinflip, where you predict the outcome of a unique toss – Ridotto logo or Joker head. Quick, easy rounds deliver immediate excitement, testing your luck in a captivating game of chance. Will the Ridotto logo be your lucky charm, or will the Joker head bring you victory? Place your bet and find out in this engaging and fast-paced game!",
+      "image": "/images/casino/game-4.webp",
+      "link": "coinflip",
+      "RTP": "90%",
+      "provider": "Ridotto Original",
+      "type": "classic",
+      "supportedNetworks": [56, 11155111],
+      "contracts": {
+        "testing": {
+          "isActive": true,
+          "network": {
+            "56": {
+              "contract": "0x0b5708aEE679e36C31c5D5fBbef2598324eB8a1a",
+              "subgraph": "https://api.thegraph.com/subgraphs/name/ridotto-io/ridottocoinflipbscstaging"
+            },
+            "11155111": {
+              "contract": "0xe09F24A36fBD14dc07C8F027BfD92f7Cb852b764",
+              "subgraph": "https://api.thegraph.com/subgraphs/name/ridotto-io/ridottocoinflipsepoliatesting"
+            }
+          }
+        },
+        "staging": {
+          "isActive": true,
+          "network": {
+            "56": {
+              "contract": "0x2962D67880FA7d82dC9dB17A5E2b6b5d211DBE20",
+              "subgraph": "https://api.thegraph.com/subgraphs/name/ridotto-io/ridottocoinflipbscprod"
+            }
+          }
+        },
+        "production": {
+          "isActive": true,
+          "network": {
+            "56": {
+              "contract": "0x2962D67880FA7d82dC9dB17A5E2b6b5d211DBE20",
+              "subgraph": "https://api.thegraph.com/subgraphs/name/ridotto-io/ridottocoinflipbscprod"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1,
+      "name": "dice",
+      "formattedName": "slidedice",
+      "description": "Step into the exciting world of Ridotto's Dice game, where players roll the virtual dice to determine their fate. With various betting options, you can predict the total sum, specific numbers, or even the range of the dice outcome. It's a classic game of chance, and with each roll, fortunes can change. Roll the dice and see if you can ride the waves of luck to victory!",
+      "tooltip": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur mattis ipsum tellus, et euismod ante volutpat at. Nulla vel ex at ante sagittis elementum. Mauris at malesuada dolor. Fusce rhoncus posuere lectus, vitae tincidunt dui pharetra sit amet. Sed pulvinar pretium augue id volutpat. Vestibulum a interdum era",
+      "image": "/images/casino/game-1.webp",
+      "link": "slidedice",
+      "RTP": "90%",
+      "provider": "Ridotto Original",
+      "type": "classic",
+      "supportedNetworks": [56, 11155111],
+      "contracts": {
+        "testing": {
+          "isActive": true,
+          "network": {
+            "56": {
+              "contract": "0x2e1F8E90c88F22ac6C836B3b7e47B14Da778e23E",
+              "subgraph": "https://api.thegraph.com/subgraphs/name/ridotto-io/ridottodicebscstaging"
+            },
+            "11155111": {
+              "contract": "0x0B1B0eA995Aa8e2cCD8542516C0B8eCc23Cf0101",
+              "subgraph": "https://api.thegraph.com/subgraphs/name/ridotto-io/ridottodicesepoliatesting"
+            }
+          }
+        },
+        "staging": {
+          "isActive": true,
+          "network": {
+            "56": {
+              "contract": "0x6Fa8622479e377c112842784023e5AB306578BdC",
+              "subgraph": "https://api.thegraph.com/subgraphs/name/ridotto-io/ridottodicebscprod"
+            }
+          }
+        },
+        "production": {
+          "isActive": true,
+          "network": {
+            "56": {
+              "contract": "0x6Fa8622479e377c112842784023e5AB306578BdC",
+              "subgraph": "https://api.thegraph.com/subgraphs/name/ridotto-io/ridottodicebscprod"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2,
+      "name": "arcade action",
+      "formattedName": "arcade",
+      "description": "Dive into a retro-gaming adventure with our Arcade Spin slot game. Enjoy the nostalgia of classic arcade cabinets while spinning the reels to win big. Match your favorite arcade icons, hit high scores, and trigger exciting bonus rounds. It's time to relive the arcade thrill and score big with Arcade Spin!",
+      "tooltip": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur mattis ipsum tellus, et euismod ante volutpat at. Nulla vel ex at ante sagittis elementum. Mauris at malesuada dolor. Fusce rhoncus posuere lectus, vitae tincidunt dui pharetra sit amet. Sed pulvinar pretium augue id volutpat. Vestibulum a interdum era",
+      "image": "/images/casino/game-7.webp",
+      "link": "arcade",
+      "RTP": "90%",
+      "provider": "Ridotto Original",
+      "type": "slots",
+      "supportedNetworks": [56, 11155111],
+      "contracts": {
+        "testing": {
+          "isActive": true,
+          "network": {
+            "56": {
+              "contract": "0x64c68445219fb57381B30Ab3881998220a678288",
+              "subgraph": "https://api.thegraph.com/subgraphs/name/ridotto-io/ridottoslotsbscstaging"
+            },
+            "11155111": {
+              "contract": "0x17A1265348072c1C2b181154B6806979c7aB92a8",
+              "subgraph": "https://api.thegraph.com/subgraphs/name/ridotto-io/ridottoslotssepoliatesting"
+            }
+          }
+        },
+        "staging": {
+          "isActive": true,
+          "network": {
+            "56": {
+              "contract": "0x64c68445219fb57381B30Ab3881998220a678288",
+              "subgraph": "https://api.thegraph.com/subgraphs/name/ridotto-io/ridottoslotsbscprod"
+            }
+          }
+        },
+        "production": {
+          "isActive": true,
+          "network": {
+            "56": {
+              "contract": "0x64c68445219fb57381B30Ab3881998220a678288",
+              "subgraph": "https://api.thegraph.com/subgraphs/name/ridotto-io/ridottoslotsbscprod"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5,
+      "name": "hue wheel",
+      "formattedName": "wheel",
+      "description": "Spin the wheel of fortune in our Wheel game for a chance to win big! This classic game of luck and anticipation has been a casino favorite for generations. Just place your bet, give it a spin, and hold your breath as the wheel whirls to a stop. With various betting options and the thrill of unpredictability, the Wheel game is an exhilarating test of your luck and intuition. Will you hit the jackpot? Take a spin and find out!",
+      "tooltip": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur mattis ipsum tellus, et euismod ante volutpat at. Nulla vel ex at ante sagittis elementum. Mauris at malesuada dolor. Fusce rhoncus posuere lectus, vitae tincidunt dui pharetra sit amet. Sed pulvinar pretium augue id volutpat. Vestibulum a interdum era",
+      "image": "/images/casino/game-5.webp",
+      "link": "wheel",
+      "RTP": "90%",
+      "provider": "Ridotto Original",
+      "type": "classic",
+      "supportedNetworks": [56, 11155111],
+      "contracts": {
+        "testing": {
+          "isActive": true,
+          "network": {
+            "56": {
+              "contract": "0xdb5188bb165b7AA4A1c8e56F42E615C3F6a0770d",
+              "subgraph": "https://api.thegraph.com/subgraphs/name/ridotto-io/ridottowheelbscstaging"
+            },
+            "11155111": {
+              "contract": "0xEeAa602b491fbE34d3aa1148Fbc8b490fE256ce8",
+              "subgraph": "https://api.thegraph.com/subgraphs/name/ridotto-io/ridottowheelsepoliatesting"
+            }
+          }
+        },
+        "staging": {
+          "isActive": true,
+          "network": {
+            "56": {
+              "contract": "0xA4D14aB61eE983A683d75a713d5c5E1BE03aec5d",
+              "subgraph": "https://api.thegraph.com/subgraphs/name/ridotto-io/ridottowheelpbscprod"
+            }
+          }
+        },
+        "production": {
+          "isActive": true,
+          "network": {
+            "56": {
+              "contract": "0xA4D14aB61eE983A683d75a713d5c5E1BE03aec5d",
+              "subgraph": "https://api.thegraph.com/subgraphs/name/ridotto-io/ridottowheelpbscprod"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3,
+      "name": "video poker",
+      "formattedName": "video-poker",
+      "description": "Take a seat at our virtual poker table and experience the thrill of Video Poker! This game combines the strategy of poker with the excitement of slots, offering you a unique gaming adventure. Choose your bet, draw your cards, and aim for the best poker hand possible. With various variations to explore, including Jacks or Better and Deuces Wild, your poker skills will be put to the test. Are you ready to chase those royal flushes and four-of-a-kind wins?",
+      "tooltip": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur mattis ipsum tellus, et euismod ante volutpat at. Nulla vel ex at ante sagittis elementum. Mauris at malesuada dolor. Fusce rhoncus posuere lectus, vitae tincidunt dui pharetra sit amet. Sed pulvinar pretium augue id volutpat. Vestibulum a interdum era",
+      "image": "/images/casino/game-2.webp",
+      "link": "video-poker",
+      "RTP": "90%",
+      "provider": "Ridotto Original",
+      "type": "classic",
+      "supportedNetworks": [56, 11155111],
+      "contracts": {
+        "testing": {
+          "isActive": true,
+          "network": {
+            "56": {
+              "contract": "0x6F469C10E38d2bE9daf4FD986BcD140a3E027557",
+              "subgraph": "https://api.thegraph.com/subgraphs/name/ridotto-io/ridottovideopokerbscstaging"
+            },
+            "11155111": {
+              "contract": "0x393fbD466B5910993a660a09630E32ddA90796B3",
+              "subgraph": "https://api.thegraph.com/subgraphs/name/ridotto-io/ridottovideopokersepoliatestin"
+            }
+          }
+        },
+        "staging": {
+          "isActive": true,
+          "network": {
+            "56": {
+              "contract": "0x6F469C10E38d2bE9daf4FD986BcD140a3E027557",
+              "subgraph": "https://api.thegraph.com/subgraphs/name/ridotto-io/ridottovideopokerbscprod"
+            }
+          }
+        },
+        "production": {
+          "isActive": true,
+          "network": {
+            "56": {
+              "contract": "0x6F469C10E38d2bE9daf4FD986BcD140a3E027557",
+              "subgraph": "https://api.thegraph.com/subgraphs/name/ridotto-io/ridottovideopokerbscprod"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4,
+      "name": "plinko",
+      "formattedName": "plinko",
+      "description": "Drop the puck and watch your luck unfold in our exciting Plinko game! Inspired by the classic TV show, this game puts your fate in the hands of gravity. Simply release the puck from the top, and it will bounce its way through a maze of pegs, landing in different slots at the bottom. Each slot holds a prize, and it's your job to aim for the jackpot. With a combination of skill and chance, Plinko offers an entertaining and suspenseful gaming experience. Will your puck find its way to the big win? Play now and find out!",
+      "tooltip": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur mattis ipsum tellus, et euismod ante volutpat at. Nulla vel ex at ante sagittis elementum. Mauris at malesuada dolor. Fusce rhoncus posuere lectus, vitae tincidunt dui pharetra sit amet. Sed pulvinar pretium augue id volutpat. Vestibulum a interdum era",
+      "image": "/images/casino/game-3.webp",
+      "link": "",
+      "RTP": "90%",
+      "provider": "Ridotto Original",
+      "supportedNetworks": [5, 56],
+      "type": "Luck Game",
+      "contracts": {
+        "testing": {
+          "isActive": false,
+          "network": {
+            "5": {
+              "contract": "0x0000000000",
+              "subgraph": "subgraph link for eth"
+            },
+            "56": {
+              "contract": "0x0000000000",
+              "subgraph": "subgraph link for bnb"
+            }
+          }
+        },
+        "staging": {
+          "isActive": false,
+          "network": {
+            "5": {
+              "contract": "0x0000000000",
+              "subgraph": "subgraph link for eth"
+            },
+            "56": {
+              "contract": "0x0000000000",
+              "subgraph": "subgraph link for bnb"
+            }
+          }
+        },
+        "production": {
+          "isActive": false,
+          "network": {
+            "5": {
+              "contract": "0x0000000000",
+              "subgraph": "subgraph link for eth"
+            },
+            "56": {
+              "contract": "0x0000000000",
+              "subgraph": "subgraph link for bnb"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 6,
+      "name": "Chi-Fou-Mi",
+      "formattedName": "chi-fou-mi",
+      "description": "Experience the ancient art of Chi-Fou-Mi (Rock-Paper-Scissors) in a thrilling, modern twist! Challenge your opponents in this classic game of strategy, where you'll choose from rock, paper, or scissors to outwit your foes. It's fast-paced, strategic, and filled with unexpected turns. Can you predict your opponent's next move and claim victory, or will they outsmart you? Play Chi-Fou-Mi and test your wits against players from around the world!",
+      "tooltip": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur mattis ipsum tellus, et euismod ante volutpat at. Nulla vel ex at ante sagittis elementum. Mauris at malesuada dolor. Fusce rhoncus posuere lectus, vitae tincidunt dui pharetra sit amet. Sed pulvinar pretium augue id volutpat. Vestibulum a interdum era",
+      "image": "/images/casino/game-6.webp",
+      "link": "chi-fou-mi",
+      "RTP": "90%",
+      "provider": "Ridotto Original",
+      "type": "classic",
+      "supportedNetworks": [56, 11155111],
+      "contracts": {
+        "testing": {
+          "isActive": true,
+          "network": {
+            "56": {
+              "contract": "0x7fA2d1c5Fe27c3fA593E25cB7f7B8D5D795Df189",
+              "subgraph": "https://api.thegraph.com/subgraphs/name/ridotto-io/ridottorpsbscstaging"
+            },
+            "11155111": {
+              "contract": "0x9fE0662e19c531458D6f73e204e32A77885cD5E1",
+              "subgraph": "https://api.thegraph.com/subgraphs/name/ridotto-io/ridottorpssepoliatesting"
+            }
+          }
+        },
+        "staging": {
+          "isActive": true,
+          "network": {
+            "56": {
+              "contract": "0x061a1bCA7b2376c235A12d22a8b762bc179B08d7",
+              "subgraph": "https://api.thegraph.com/subgraphs/name/ridotto-io/ridottorpsbscprod"
+            }
+          }
+        },
+        "production": {
+          "isActive": true,
+          "network": {
+            "56": {
+              "contract": "0x061a1bCA7b2376c235A12d22a8b762bc179B08d7",
+              "subgraph": "https://api.thegraph.com/subgraphs/name/ridotto-io/ridottorpsbscprod"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 7,
+      "name": "Pirate's booty",
+      "formattedName": "pirates",
+      "description": "Embark on a swashbuckling journey in our Pirate's Booty Adventure slot game. Sail the high seas and uncover treasures beyond your wildest dreams. Spin the reels and match pirate symbols, treasure chests, and parrots to unlock hidden riches. With exciting bonus rounds and the chance to win big, it's time to set sail and seek your fortune in the Pirate's Booty Adventure slot!",
+      "tooltip": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur mattis ipsum tellus, et euismod ante volutpat at. Nulla vel ex at ante sagittis elementum. Mauris at malesuada dolor. Fusce rhoncus posuere lectus, vitae tincidunt dui pharetra sit amet. Sed pulvinar pretium augue id volutpat. Vestibulum a interdum era",
+      "image": "/images/casino/game-8.webp",
+      "link": "",
+      "RTP": "90%",
+      "provider": "Ridotto Original",
+      "supportedNetworks": [5, 56],
+      "type": "slots",
+      "contracts": {
+        "testing": {
+          "isActive": false,
+          "network": {
+            "5": {
+              "contract": "0x0000000000",
+              "subgraph": "subgraph link for eth"
+            },
+            "56": {
+              "contract": "0x0000000000",
+              "subgraph": "subgraph link for bnb"
+            }
+          }
+        },
+        "staging": {
+          "isActive": false,
+          "network": {
+            "5": {
+              "contract": "0x0000000000",
+              "subgraph": "subgraph link for eth"
+            },
+            "56": {
+              "contract": "0x0000000000",
+              "subgraph": "subgraph link for bnb"
+            }
+          }
+        },
+        "production": {
+          "isActive": false,
+          "network": {
+            "5": {
+              "contract": "0x0000000000",
+              "subgraph": "subgraph link for eth"
+            },
+            "56": {
+              "contract": "0x0000000000",
+              "subgraph": "subgraph link for bnb"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 7,
+      "name": "slider",
+      "formattedName": "slider",
+      "description": "Get ready to embark on a thrilling crypto gaming adventure with 'Slider.' Take control as you slide through a deck of cards, each one tied to a multiplier that could supercharge your winnings. With strategy, skill, and a touch of luck, 'Slider' offers a captivating experience where every slide brings the anticipation of a big win. Dive into this innovative game designed for crypto enthusiasts, and discover the excitement of multiplying your crypto rewards, one card at a time.",
+      "tooltip": "Get ready to embark on a thrilling crypto gaming adventure with 'Slider.' Take control as you slide through a deck of cards, each one tied to a multiplier that could supercharge your winnings. With strategy, skill, and a touch of luck, 'Slider' offers a captivating experience where every slide brings the anticipation of a big win. Dive into this innovative game designed for crypto enthusiasts, and discover the excitement of multiplying your crypto rewards, one card at a time.",
+      "image": "/images/casino/game-10.webp",
+      "link": "",
+      "RTP": "90%",
+      "provider": "Ridotto Original",
+      "supportedNetworks": [5, 56],
+      "type": "Classic",
+      "contracts": {
+        "testing": {
+          "isActive": false,
+          "network": {
+            "5": {
+              "contract": "0x0000000000",
+              "subgraph": "subgraph link for eth"
+            },
+            "56": {
+              "contract": "0x0000000000",
+              "subgraph": "subgraph link for bnb"
+            }
+          }
+        },
+        "staging": {
+          "isActive": false,
+          "network": {
+            "5": {
+              "contract": "0x0000000000",
+              "subgraph": "subgraph link for eth"
+            },
+            "56": {
+              "contract": "0x0000000000",
+              "subgraph": "subgraph link for bnb"
+            }
+          }
+        },
+        "production": {
+          "isActive": false,
+          "network": {
+            "5": {
+              "contract": "0x0000000000",
+              "subgraph": "subgraph link for eth"
+            },
+            "56": {
+              "contract": "0x0000000000",
+              "subgraph": "subgraph link for bnb"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 9,
+      "name": "mine",
+      "formattedName": "mine",
+      "description": "desc for mine",
+      "tooltip": "tooltip for mine",
+      "image": "/images/casino/game-11.webp",
+      "link": "mine",
+      "RTP": "90%",
+      "provider": "Ridotto Original",
+      "type": "classic",
+      "supportedNetworks": [11155111],
+      "contracts": {
+        "testing": {
+          "isActive": true,
+          "network": {
+            "11155111": {
+              "contract": "0xd0936c45B6b62e8A16D8C092346811D06361c9F5",
+              "subgraph": "https://api.thegraph.com/subgraphs/name/ridotto-io/ridottominessepoliatesting"
+            }
+          }
+        },
+        "staging": {
+          "isActive": false,
+          "network": {
+            "5": {
+              "contract": "0x0000000000",
+              "subgraph": "subgraph link for eth"
+            },
+            "56": {
+              "contract": "0x0000000000",
+              "subgraph": "subgraph link for bnb"
+            }
+          }
+        },
+        "production": {
+          "isActive": false,
+          "network": {
+            "5": {
+              "contract": "0x0000000000",
+              "subgraph": "subgraph link for eth"
+            },
+            "56": {
+              "contract": "0x0000000000",
+              "subgraph": "subgraph link for bnb"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "bankrolles": [
+    {
+      "testing": {
+        "56": "https://api.thegraph.com/subgraphs/name/ridotto-io/ridottobankrollbscstaging",
+        "11155111": "https://api.thegraph.com/subgraphs/name/ridotto-io/ridottoglobalbankrollsepolites"
+      },
+      "staging": {
+        "56": "https://api.thegraph.com/subgraphs/name/ridotto-io/ridottobankrollbscprod"
+      },
+      "production": {
+        "56": "https://api.thegraph.com/subgraphs/name/ridotto-io/ridottobankrollbscprod"
+      }
+    }
+  ]
+}

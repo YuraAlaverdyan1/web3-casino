@@ -1,0 +1,15 @@
+query UserRounds($id: String!, $lottery: String!) {
+  rounds(where: { user_: { id: $id }, lottery_: { id: $lottery } }) {
+    id
+    user {
+      id
+    }
+    lottery {
+      id
+    }
+    claimed
+    TicketNumbers
+    TicketIds
+    block
+  }
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "status": "done",
+    "text": "Starting Swap"
+  },
+  {
+    "status": "in proggress",
+    "text": "Crossing Bridge"
+  },
+  {
+    "status": "unreached",
+    "text": "Approving Transfer"
+  },
+  {
+    "status": "unreached",
+    "text": "Complete"
+  }
+]

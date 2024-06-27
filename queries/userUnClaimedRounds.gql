@@ -1,0 +1,23 @@
+query UserUnClaimedRounds($id: String!, $endTime: Int!) {
+  rounds(
+    where: {
+      user_: { id: $id }
+      lottery_: { endTime_gt: $endTime }
+      claimed: null
+    }
+  ) {
+    id
+    user {
+      id
+    }
+    lottery {
+      id
+      endTime
+      finalNumber
+    }
+    claimed
+    TicketNumbers
+    TicketIds
+    block
+  }
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "browse",
+    "image": "/mobile_bottom_menu/browse.svg",
+    "active": true
+  },
+  {
+    "name": "casino",
+    "image": "/mobile_bottom_menu/casino.svg",
+    "active": true
+  },
+  {
+    "name": "Buy RDT",
+    "image": "/mobile_bottom_menu/swap.svg",
+    "active": true
+  },
+  {
+    "name": "coming...",
+    "image": "/mobile_bottom_menu/lottery.svg",
+    "active": false
+  }
+]

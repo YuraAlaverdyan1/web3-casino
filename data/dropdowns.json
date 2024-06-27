@@ -1,0 +1,8 @@
+[
+  { "title": "Jackpot", "items": ["item1", "item2", "item3"] },
+  { "title": "Token", "items": ["item1", "item2", "item3"] },
+  { "title": "Chain", "items": ["item1", "item2", "item3"] },
+  { "title": "Ticket", "items": ["item1", "item2", "item3"] },
+  { "title": "End Date", "items": ["item1", "item2", "item3"] },
+  { "title": "Most Sold", "items": ["item1", "item2", "item3"] }
+]

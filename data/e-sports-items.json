@@ -1,0 +1,33 @@
+[
+  { "name": "Home", "link": "", "formattedName": "Home", "slug": "home" },
+  {
+    "name": "My bets",
+    "link": "my-bets",
+    "formattedName": "My bets",
+    "slug": "my-bets"
+  },
+  {
+    "name": "Tournaments",
+    "link": "tournaments",
+    "formattedName": "tournaments",
+    "slug": "tournaments"
+  },
+  {
+    "name": "Dota 2",
+    "link": "dota-2",
+    "formattedName": "Dota 2",
+    "slug": "dota-2"
+  },
+  {
+    "name": "Counter-Strike 2",
+    "link": "cs2",
+    "formattedName": "Counter-Strike 2",
+    "slug": "cs2"
+  },
+  {
+    "name": "league-of-legends",
+    "link": "lol",
+    "formattedName": "League of Legends",
+    "slug": "lol"
+  }
+]

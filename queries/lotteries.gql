@@ -1,0 +1,8 @@
+query Lotteries {
+  lotteries {
+    id
+    LotteryId
+    start
+    end
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "pins": {
+    "startPins": 3
+  },
+  "engine": {
+    "engineGravity": 1.3
+  },
+  "sizes": {
+    "xl": {
+      "pinSize": 5,
+      "pinGap": 50,
+      "ballSize": 10
+    },
+    "lg": {
+      "pinSize": 5,
+      "pinGap": 35,
+      "ballSize": 8
+    },
+    "md": {
+      "pinGap": 35,
+      "pinSize": 4,
+      "ballSize": 7
+    },
+    "sm": {
+      "pinGap": 30,
+      "pinSize": 3,
+      "ballSize": 6
+    },
+    "ss": {
+      "pinGap": 22,
+      "pinSize": 3,
+      "ballSize": 6
+    },
+    "xs": {
+      "pinGap": 20,
+      "pinSize": 3,
+      "ballSize": 6
+    }
+  },
+  "colors": {
+    "background": "#171120",
+    "primary": "#213743",
+    "secondary": "#3d5564",
+    "text": "#F2F7FF",
+    "purple": "#C52BFF",
+    "purpleDark": "#8D27B3"
+  }
+}

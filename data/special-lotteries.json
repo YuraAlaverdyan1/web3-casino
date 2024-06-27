@@ -1,0 +1,92 @@
+[
+  {
+    "image": "/images/home/part-3/casino.png",
+    "title": "DAILY LOTTERY",
+    "amount": "10.000",
+    "tokenSymbol": "busd",
+    "date": "16/3/2023",
+    "endIn": "23d",
+    "btnColor": "#F5F5F7",
+    "bgColor": "#6600FF"
+  },
+  {
+    "image": "/images/home/part-3/casino.png",
+    "title": "DAILY LOTTERY",
+    "amount": "25.000",
+    "tokenSymbol": "busd",
+    "date": "16/3/2023",
+    "endIn": "23d",
+    "btnColor": "#FFDC7E",
+    "bgColor": "#9E68FF"
+  },
+  {
+    "image": "/images/home/part-3/casino.png",
+    "title": "DAILY LOTTERY",
+    "amount": "50.000",
+    "tokenSymbol": "busd",
+    "date": "16/3/2023",
+    "endIn": "23d",
+    "btnColor": "#CEFF9B",
+    "bgColor": "#6600FF"
+  },
+  {
+    "image": "/images/home/part-3/casino.png",
+    "title": "DAILY LOTTERY",
+    "amount": "1.000",
+    "tokenSymbol": "busd",
+    "date": "16/3/2023",
+    "endIn": "23d",
+    "btnColor": "#FF6600",
+    "bgColor": "#FF6600"
+  },
+  {
+    "image": "/images/home/part-3/casino.png",
+    "title": "DAILY LOTTERY",
+    "amount": "1.000",
+    "tokenSymbol": "busd",
+    "date": "16/3/2023",
+    "endIn": "23d",
+    "btnColor": "#FF6600",
+    "bgColor": "#FF6600"
+  },
+  {
+    "image": "/images/home/part-3/casino.png",
+    "title": "DAILY LOTTERY",
+    "amount": "10.000",
+    "tokenSymbol": "busd",
+    "date": "16/3/2023",
+    "endIn": "23d",
+    "btnColor": "#F5F5F7",
+    "bgColor": "#6600FF"
+  },
+  {
+    "image": "/images/home/part-3/casino.png",
+    "title": "DAILY LOTTERY",
+    "amount": "1.000",
+    "tokenSymbol": "busd",
+    "date": "16/3/2023",
+    "endIn": "23d",
+    "btnColor": "#FF6600",
+    "bgColor": "#FF6600"
+  },
+  {
+    "image": "/images/home/part-3/casino.png",
+    "title": "DAILY LOTTERY",
+    "amount": "50.000",
+    "tokenSymbol": "busd",
+    "date": "16/3/2023",
+    "endIn": "23d",
+    "btnColor": "#CEFF9B",
+    "bgColor": "#6600FF"
+  },
+  {
+    "image": "/images/home/part-3/casino.png",
+    "title": "DAILY LOTTERY",
+    "amount": "1.000",
+    "tokenSymbol": "busd",
+    "date": "16/3/2023",
+    "endIn": "23d",
+    "btnColor": "#FF6600",
+    "bgColor": "#FF6600"
+  }
+]

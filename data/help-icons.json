@@ -1,0 +1,30 @@
+[
+  {
+    "name": "info",
+    "icon": "/games/icons/info.png",
+    "hover": "/games/icons/info-hover.png",
+    "selected": "/games/icons/info-hover.png",
+    "disabled": "/games/icons/info-disabled.png"
+  },
+  {
+    "name": "sound",
+    "icon": "/games/icons/sound.png",
+    "hover": "/games/icons/sound-hover.png",
+    "selected": "/games/icons/sound-hover.png",
+    "disabled": "/games/icons/sound-disabled.png"
+  },
+  {
+    "name": "fast",
+    "icon": "/games/icons/fast.png",
+    "hover": "/games/icons/fast-hover.png",
+    "selected": "/games/icons/fast-hover.png",
+    "disabled": "/games/icons/fast-disabled.png"
+  },
+  {
+    "name": "help",
+    "icon": "/games/icons/help.png",
+    "hover": "/games/icons/help-hover.png",
+    "selected": "/games/icons/help-hover.png",
+    "disabled": "/games/icons/help-disabled.png"
+  }
+]

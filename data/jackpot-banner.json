@@ -1,0 +1,10 @@
+{
+  "jackpot": "13.500",
+  "lotteryName": "Lottery Name",
+  "token": "USDT",
+  "time": {
+    "hours": 1,
+    "minutes": 1,
+    "seconds": 1
+  }
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Audit",
+    "subTitles": [
+      {
+        "label": "Certik",
+        "link": "https://skynet.certik.com/projects/ridotto"
+      },
+      { "label": "Hacken", "link": "https://hacken.io/audits/#ridotto" },
+      {
+        "label": "Solidproof",
+        "link": "https://solidproof.io/projects?search=ridotto"
+      }
+    ]
+  },
+  {
+    "title": "Legal",
+    "subTitles": [
+      { "label": "Terms of Use", "link": "tos" },
+      { "label": "Privacy Policy", "link": "privacy" }
+    ]
+  },
+  {
+    "title": "Contact",
+    "subTitles": [
+      {
+        "label": "contact@ridotto.io",
+        "link": "mailto:contact@ridotto.io"
+      },
+      {
+        "label": "Join Newsletter",
+        "link": "",
+        "action": "openNewslettersModal"
+      }
+    ]
+  }
+]

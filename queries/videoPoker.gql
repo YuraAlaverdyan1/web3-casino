@@ -1,0 +1,15 @@
+query VideoPoker {
+  hands(first: 1000, orderBy: timestamp, orderDirection: desc) {
+    id
+    player
+    wager
+    token
+    payOut
+    timestamp
+    trxHash
+  }
+  tokenTotalWagers {
+    id
+    totalWagered
+  }
+}

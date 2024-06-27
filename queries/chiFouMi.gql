@@ -1,0 +1,15 @@
+query ChiFouMi {
+  rpsactions(first: 1000, orderBy: timestamp, orderDirection: desc) {
+    id
+    player
+    wager
+    token
+    action
+    claimed
+    numOfBets
+    reqId
+    payOut
+    timestamp
+    trxHash
+  }
+}

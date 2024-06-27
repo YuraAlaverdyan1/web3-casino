@@ -1,0 +1,204 @@
+{
+  "I._migrate_nft_pool": [
+    {
+      "coins": ["/migration/rdt.png"],
+      "pool": "Slot - RDT",
+      "token": {
+        "value": 0.0,
+        "currency": "RDT",
+        "image": "/migration/rdt.png"
+      },
+      "reward": {
+        "count": 3,
+        "percent": 4.44
+      },
+      "state": "In Progress",
+      "buttons": [
+        {
+          "text": "Withdraw",
+          "disabled": false,
+          "fill": true
+        },
+        {
+          "text": "Migrate",
+          "disabled": false,
+          "fill": false
+        },
+        {
+          "text": "Deposit",
+          "disabled": false,
+          "fill": false
+        }
+      ]
+    },
+    {
+      "coins": ["/migration/rdt.png", "/migration/bnb.png"],
+      "pool": "Slot - RDT/BNB",
+      "token": {
+        "value": 100.0,
+        "currency": "Cake-Lp",
+        "image": "/migration/cake_lp.svg"
+      },
+      "reward": {
+        "count": 1,
+        "percent": 18.25
+      },
+      "state": "To Migrate",
+      "buttons": [
+        {
+          "text": "Withdraw",
+          "disabled": false,
+          "fill": true
+        },
+        {
+          "text": "Migrate",
+          "disabled": false,
+          "fill": false
+        },
+        {
+          "text": "Deposit",
+          "disabled": false,
+          "fill": false
+        }
+      ]
+    },
+    {
+      "coins": ["/migration/rdt.png"],
+      "pool": "Lottery- RDT",
+      "token": {
+        "value": 0.0,
+        "currency": "RDT",
+        "image": "/migration/rdt.png"
+      },
+      "reward": {
+        "count": 4,
+        "percent": 86.12
+      },
+      "state": "To Migrate",
+      "buttons": [
+        {
+          "text": "Withdraw",
+          "disabled": false,
+          "fill": true
+        },
+        {
+          "text": "Migrate",
+          "disabled": false,
+          "fill": false
+        },
+        {
+          "text": "Deposit",
+          "disabled": false,
+          "fill": false
+        }
+      ]
+    },
+    {
+      "coins": ["/migration/rdt.png", "/migration/bnb.png"],
+      "pool": "Lottery - RDT/BNB",
+      "token": {
+        "value": 100.0,
+        "currency": "Cake-Lp",
+        "image": "/migration/cake_lp.svg"
+      },
+      "reward": {
+        "count": 5,
+        "percent": 99.56
+      },
+      "state": "To Migrate",
+      "buttons": [
+        {
+          "text": "Withdraw",
+          "disabled": false,
+          "fill": true
+        },
+        {
+          "text": "Migrate",
+          "disabled": false,
+          "fill": false
+        },
+        {
+          "text": "Deposit",
+          "disabled": false,
+          "fill": false
+        }
+      ]
+    }
+  ],
+  "II._migrate_staking_pool": [
+    {
+      "coins": ["/migration/rdt.png"],
+      "pool": "Lottery - RDT/BNB",
+      "token": {
+        "value": 0.0,
+        "currency": "RDT",
+        "image": "/migration/rdt.png"
+      },
+      "state": "To Migrate",
+      "buttons": [
+        {
+          "text": "Withdraw",
+          "disabled": true,
+          "fill": true
+        },
+        {
+          "text": "Migrate",
+          "disabled": true,
+          "fill": false
+        },
+        {
+          "text": "Deposit",
+          "disabled": true,
+          "fill": false
+        }
+      ]
+    },
+    {
+      "coins": ["/migration/rdt.png", "/migration/bnb.png"],
+      "pool": "RDT/BNB LP",
+      "token": {
+        "value": 100.0,
+        "currency": "Cake-Lp",
+        "image": "/migration/cake_lp.svg"
+      },
+      "state": "To Migrate",
+      "buttons": [
+        {
+          "text": "Withdraw",
+          "disabled": true,
+          "fill": true
+        },
+        {
+          "text": "Migrate",
+          "disabled": true,
+          "fill": false
+        },
+        {
+          "text": "Deposit",
+          "disabled": true,
+          "fill": false
+        }
+      ]
+    }
+  ],
+  "III._migrate_ridotto_token": [
+    {
+      "coins": ["/migration/rdt.png"],
+      "pool": "Ridotto Token",
+      "token": {
+        "value": 0.0,
+        "currency": "RDT",
+        "image": "/migration/rdt.png"
+      },
+      "state": "To Migrate",
+      "buttons": [
+        {
+          "text": "Swap Token",
+          "disabled": true,
+          "fill": true,
+          "icon": "/migration/swap.svg"
+        }
+      ]
+    }
+  ]
+}

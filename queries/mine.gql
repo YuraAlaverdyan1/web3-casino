@@ -1,0 +1,13 @@
+query Mine {
+  mines(first: 1000, orderBy: timestamp, orderDirection: desc) {
+    id
+    player
+    wager
+    token
+    claimed
+    reqId
+    payOut
+    timestamp
+    trxHash
+  }
+}

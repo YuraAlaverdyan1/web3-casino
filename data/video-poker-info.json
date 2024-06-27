@@ -1,0 +1,38 @@
+[
+  {
+    "name": "ROYAL FLUSH",
+    "multiplier": 800
+  },
+  {
+    "name": "STRAIGHT FLUSH",
+    "multiplier": 60
+  },
+  {
+    "name": "4 OF A KIND",
+    "multiplier": 22
+  },
+  {
+    "name": "FULL HOUSE",
+    "multiplier": 9
+  },
+  {
+    "name": "FLUSH",
+    "multiplier": 6
+  },
+  {
+    "name": "STRAIGHT",
+    "multiplier": 4
+  },
+  {
+    "name": "3 OF A KIND",
+    "multiplier": 3
+  },
+  {
+    "name": "2 PAIR",
+    "multiplier": 2
+  },
+  {
+    "name": "JACKS OR BETTER",
+    "multiplier": 1
+  }
+]

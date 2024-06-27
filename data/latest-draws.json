@@ -1,0 +1,303 @@
+[
+  {
+    "round": "1",
+    "date": "23.03.2023",
+    "tickets": "1242",
+    "won": "300",
+    "lucky": [1, 1, 7, 0, 8, 2],
+    "randomLucky": [1, 1, 7, 0, 8, 2, 2, 1, 5, 2],
+    "payout": "15000",
+    "wallet": "rdt",
+    "type": "Jackpot Lottery",
+    "breakDown": [
+      {
+        "numbers": "MATCH FIRST 1",
+        "tickets": "10.000",
+        "total": "100.000$",
+        "player": "10",
+        "rdtEach": "2.52 RDT each",
+        "rdt": "523"
+      },
+      {
+        "numbers": "MATCH FIRST 2",
+        "tickets": "1.000",
+        "total": "10.000$",
+        "player": "10",
+        "rdtEach": "2.52 RDT each",
+        "rdt": "523"
+      },
+      {
+        "numbers": "MATCH FIRST 3",
+        "tickets": "100",
+        "total": "1000$",
+        "player": "10",
+        "rdtEach": "2.52 RDT each",
+        "rdt": "523"
+      },
+      {
+        "numbers": "MATCH FIRST 4",
+        "tickets": "10",
+        "total": "10.000$",
+        "player": "1000",
+        "rdtEach": "2.52 RDT each",
+        "rdt": "523"
+      },
+      {
+        "numbers": "MATCH FIRST 5",
+        "tickets": "2",
+        "total": "100.000$",
+        "player": "50.000",
+        "rdtEach": "2.52 RDT each",
+        "rdt": "523"
+      },
+      {
+        "numbers": "MATCH ALL 6",
+        "tickets": "1",
+        "total": "1.000.000$",
+        "player": "1",
+        "rdtEach": "2.52 RDT each",
+        "rdt": "523"
+      }
+    ]
+  },
+  {
+    "round": "2",
+    "date": "30.03.2023",
+    "tickets": "1241",
+    "won": "350",
+    "lucky": [1, 1, 5, 9, 8, 4],
+    "payout": "20000",
+    "wallet": "busd",
+    "type": "Jackpot Lottery",
+    "breakDown": [
+      {
+        "numbers": "MATCH FIRST 1",
+        "tickets": "10.000",
+        "total": "100.000$",
+        "player": "10",
+        "rdtEach": "2.52 RDT each",
+        "rdt": "523"
+      },
+      {
+        "numbers": "MATCH FIRST 2",
+        "tickets": "1.000",
+        "total": "10.000$",
+        "player": "10",
+        "rdtEach": "2.52 RDT each",
+        "rdt": "523"
+      },
+      {
+        "numbers": "MATCH FIRST 3",
+        "tickets": "100",
+        "total": "1000$",
+        "player": "10",
+        "rdtEach": "2.52 RDT each",
+        "rdt": "523"
+      },
+      {
+        "numbers": "MATCH FIRST 4",
+        "tickets": "10",
+        "total": "10.000$",
+        "player": "1000",
+        "rdtEach": "2.52 RDT each",
+        "rdt": "523"
+      },
+      {
+        "numbers": "MATCH FIRST 5",
+        "tickets": "2",
+        "total": "100.000$",
+        "player": "50.000",
+        "rdtEach": "2.52 RDT each",
+        "rdt": "523"
+      },
+      {
+        "numbers": "MATCH ALL 6",
+        "tickets": "1",
+        "total": "1.000.000$",
+        "player": "1",
+        "rdtEach": "2.52 RDT each",
+        "rdt": "523"
+      }
+    ]
+  },
+  {
+    "round": "3",
+    "date": "07.03.2023",
+    "tickets": "2324",
+    "won": "400",
+    "lucky": [2, 2, 3, 8, 8, 6],
+    "payout": "25000",
+    "wallet": "busd",
+    "type": "Jackpot Lottery",
+    "breakDown": [
+      {
+        "numbers": "MATCH FIRST 1",
+        "tickets": "10.000",
+        "total": "100.000$",
+        "player": "10",
+        "rdtEach": "2.52 RDT each",
+        "rdt": "523"
+      },
+      {
+        "numbers": "MATCH FIRST 2",
+        "tickets": "1.000",
+        "total": "10.000$",
+        "player": "10",
+        "rdtEach": "2.52 RDT each",
+        "rdt": "523"
+      },
+      {
+        "numbers": "MATCH FIRST 3",
+        "tickets": "100",
+        "total": "1000$",
+        "player": "10",
+        "rdtEach": "2.52 RDT each",
+        "rdt": "523"
+      },
+      {
+        "numbers": "MATCH FIRST 4",
+        "tickets": "10",
+        "total": "10.000$",
+        "player": "1000",
+        "rdtEach": "2.52 RDT each",
+        "rdt": "523"
+      },
+      {
+        "numbers": "MATCH FIRST 5",
+        "tickets": "2",
+        "total": "100.000$",
+        "player": "50.000",
+        "rdtEach": "2.52 RDT each",
+        "rdt": "523"
+      },
+      {
+        "numbers": "MATCH ALL 6",
+        "tickets": "1",
+        "total": "1.000.000$",
+        "player": "1",
+        "rdtEach": "2.52 RDT each",
+        "rdt": "523"
+      }
+    ]
+  },
+  {
+    "round": "3",
+    "date": "07.03.2023",
+    "tickets": "2324",
+    "won": "400",
+    "lucky": [2, 2, 3, 8, 8, 6],
+    "payout": "25000",
+    "wallet": "busd",
+    "type": "Jackpot Lottery",
+    "breakDown": [
+      {
+        "numbers": "MATCH FIRST 1",
+        "tickets": "10.000",
+        "total": "100.000$",
+        "player": "10",
+        "rdtEach": "2.52 RDT each",
+        "rdt": "523"
+      },
+      {
+        "numbers": "MATCH FIRST 2",
+        "tickets": "1.000",
+        "total": "10.000$",
+        "player": "10",
+        "rdtEach": "2.52 RDT each",
+        "rdt": "523"
+      },
+      {
+        "numbers": "MATCH FIRST 3",
+        "tickets": "100",
+        "total": "1000$",
+        "player": "10",
+        "rdtEach": "2.52 RDT each",
+        "rdt": "523"
+      },
+      {
+        "numbers": "MATCH FIRST 4",
+        "tickets": "10",
+        "total": "10.000$",
+        "player": "1000",
+        "rdtEach": "2.52 RDT each",
+        "rdt": "523"
+      },
+      {
+        "numbers": "MATCH FIRST 5",
+        "tickets": "2",
+        "total": "100.000$",
+        "player": "50.000",
+        "rdtEach": "2.52 RDT each",
+        "rdt": "523"
+      },
+      {
+        "numbers": "MATCH ALL 6",
+        "tickets": "1",
+        "total": "1.000.000$",
+        "player": "1",
+        "rdtEach": "2.52 RDT each",
+        "rdt": "523"
+      }
+    ]
+  },
+  {
+    "round": "3",
+    "date": "07.03.2023",
+    "tickets": "2324",
+    "won": "400",
+    "lucky": [2, 2, 3, 8, 8, 6],
+    "payout": "25000",
+    "wallet": "busd",
+    "type": "Jackpot Lottery",
+    "breakDown": [
+      {
+        "numbers": "MATCH FIRST 1",
+        "tickets": "10.000",
+        "total": "100.000$",
+        "player": "10",
+        "rdtEach": "2.52 RDT each",
+        "rdt": "523"
+      },
+      {
+        "numbers": "MATCH FIRST 2",
+        "tickets": "1.000",
+        "total": "10.000$",
+        "player": "10",
+        "rdtEach": "2.52 RDT each",
+        "rdt": "523"
+      },
+      {
+        "numbers": "MATCH FIRST 3",
+        "tickets": "100",
+        "total": "1000$",
+        "player": "10",
+        "rdtEach": "2.52 RDT each",
+        "rdt": "523"
+      },
+      {
+        "numbers": "MATCH FIRST 4",
+        "tickets": "10",
+        "total": "10.000$",
+        "player": "1000",
+        "rdtEach": "2.52 RDT each",
+        "rdt": "523"
+      },
+      {
+        "numbers": "MATCH FIRST 5",
+        "tickets": "2",
+        "total": "100.000$",
+        "player": "50.000",
+        "rdtEach": "2.52 RDT each",
+        "rdt": "523"
+      },
+      {
+        "numbers": "MATCH ALL 6",
+        "tickets": "1",
+        "total": "1.000.000$",
+        "player": "1",
+        "rdtEach": "2.52 RDT each",
+        "rdt": "523"
+      }
+    ]
+  }
+]

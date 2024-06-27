@@ -1,0 +1,38 @@
+[
+  {
+    "image": "/images/home/hot-games-small/demon.png",
+    "title": "Demon Inc",
+    "game": "Slot",
+    "percent": 98
+  },
+  {
+    "image": "/images/home/hot-games-small/witching.png",
+    "title": "Witching Hour",
+    "game": "Slot",
+    "percent": 98
+  },
+  {
+    "image": "/images/home/hot-games-small/chifoumi.png",
+    "title": "Chi - Fou - Mi",
+    "game": "Slot",
+    "percent": 98
+  },
+  {
+    "image": "/images/home/hot-games-small/hangover.png",
+    "title": "Hangover",
+    "game": "Slot",
+    "percent": 98
+  },
+  {
+    "image": "/images/home/hot-games-small/candyshop.png",
+    "title": "Candy Shop",
+    "game": "Slot",
+    "percent": 98
+  },
+  {
+    "image": "/images/home/hot-games-small/demon.png",
+    "title": "Demon Inc",
+    "game": "Slot",
+    "percent": 98
+  }
+]
